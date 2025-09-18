@@ -2286,5 +2286,3047 @@
       "development"
     ],
     "summary": "Building AI agents with tools."
+  },
+  {
+    "title": "My Favorite Film For Each Year of My Life: movies",
+    "url": "https://www.reddit.com/r/movies/comments/9cjj85/my_favorite_film_for_each_year_of_my_life/",
+    "created_on": "June 18, 2022 10:26 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/My Favorite Film For Each Year of My Life movies 6ed1451487b84f9eb01ff5aff77b3398.md",
+    "category": "Work",
+    "tags": [
+      "movies",
+      "lists",
+      "favorites"
+    ],
+    "summary": "Users compile personal movie lists."
+  },
+  {
+    "title": "Python-nvd3 Documentation! \u2014 python-nvd3 0.14.2 documentation",
+    "url": "http://python-nvd3.readthedocs.io/en/latest/",
+    "created_on": "December 28, 2021 3:03 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Python-nvd3 Documentation! \u2014 python-nvd3 0 14 2 do d289a28477d1490ba58cac9445ef9455.md",
+    "category": "Work",
+    "tags": [
+      "python",
+      "charts",
+      "web"
+    ],
+    "summary": "Python-NVD3 builds web application charts."
+  },
+  {
+    "title": "LangChain: Introduction and Getting Started | Pinecone",
+    "url": "https://www.pinecone.io/learn/series/langchain/langchain-intro/",
+    "created_on": "March 31, 2024 7:52 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/LangChain AI Handbook Pinecone 5578937efb034aa39759d2e0cab89321.md",
+    "category": "Work",
+    "tags": [
+      "pinecone",
+      "company",
+      "legal"
+    ],
+    "summary": "Pinecone company legal business details."
+  },
+  {
+    "title": "Brain is always listening",
+    "url": "https://files.tyndale.com/thpdata/firstchapters/978-1-4964-3820-1.pdf",
+    "created_on": "August 26, 2023 10:06 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Brain is always listening e9ce3497466b4e0d96f52e9dc480d869.md",
+    "category": "Health",
+    "tags": [
+      "community",
+      "loneliness",
+      "relationships"
+    ],
+    "summary": "Building deep community defeats loneliness."
+  },
+  {
+    "title": "Brain Rules Book Summary by John Medina",
+    "url": "https://www.shortform.com/summary/brain-rules-summary-john-medina?utm_source=bing&utm_medium=cpc&utm_campaign=Book%20-%20Brain%20Rules%20-%20Phrase&utm_term=john%20medina%20brain%20rules&utm_content=84731656842743&msclkid=880f71c56d4317ba1b4a15ef82f1c191",
+    "created_on": "April 3, 2023 11:24 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Brain Rules Book Summary by John Medina c91e28ee3b484706bd30874f0ece8966.md",
+    "category": "Health",
+    "tags": [
+      "brain",
+      "learning",
+      "mind"
+    ],
+    "summary": "Brain rules for better learning."
+  },
+  {
+    "title": "Impacts to Your Benefits",
+    "url": "",
+    "created_on": "March 7, 2023 6:17 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Impacts to Your Benefits 5e19889cb8654e59adb5f97c6a5fd682.md",
+    "category": "Work",
+    "tags": [
+      "benefits",
+      "job",
+      "microsoft"
+    ],
+    "summary": "Microsoft job benefits impacts document"
+  },
+  {
+    "title": "Tool Calling with LangChain",
+    "url": "https://blog.langchain.dev/tool-calling-with-langchain/",
+    "created_on": "April 14, 2024 8:58 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Tool Calling with LangChain d3108183dc6b4055a6189dbde13e79b0.md",
+    "category": "Work",
+    "tags": [
+      "llm",
+      "tools",
+      "langchain"
+    ],
+    "summary": "LangChain standardizes LLM tool calls."
+  },
+  {
+    "title": "GitHub - gothinkster/realworld: \"The mother of all demo apps\" \u2014 Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more \ud83c\udfc5",
+    "url": "https://github.com/gothinkster/realworld",
+    "created_on": "May 29, 2021 12:24 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/GitHub - gothinkster realworld The mother of all d 94274cb17c864d5987c301f464d7bc20.md",
+    "category": "Work",
+    "tags": [
+      "programming",
+      "development",
+      "frameworks"
+    ],
+    "summary": "RealWorld: build diverse full-stack apps."
+  },
+  {
+    "title": "A Secular Religion? Isn\u2019t That Like a Joke? | Buddhism.net",
+    "url": "https://buddhism.net/posts/buddhism-for-all/b105-a-secular-religion-isnt-that-like-a-joke/",
+    "created_on": "April 20, 2024 8:23 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/A Secular Religion Isn\u2019t That Like a Joke Buddhism de09b96c06e3425bbd57751309969e85.md",
+    "category": "Health",
+    "tags": [
+      "buddhism",
+      "meditation",
+      "inclusiveness"
+    ],
+    "summary": "Buddhism: inclusive, secular, ends suffering."
+  },
+  {
+    "title": "Very good article - Development Kit",
+    "url": "https://google.github.io/adk-docs/tutorials/agent-team/#conclusion-your-agent-team-is-ready",
+    "created_on": "May 8, 2025 7:42 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Very good article - Development Kit 1ed45e69b16a8183bc16d63624dfaec8.md",
+    "category": "Work",
+    "tags": [
+      "agent",
+      "llm",
+      "development"
+    ],
+    "summary": "Build advanced LLM agent applications."
+  },
+  {
+    "title": "King Milinda's Questions and the Chariot Simile",
+    "url": "https://www.learnreligions.com/king-milindas-questions-450052",
+    "created_on": "June 22, 2021 6:53 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/King Milinda's Questions and the Chariot Simile a4f831c0df974033be9ef357dbcb52ce.md",
+    "category": "Health",
+    "tags": [
+      "buddhism",
+      "self",
+      "philosophy"
+    ],
+    "summary": "Buddhist text explains no-self concept."
+  },
+  {
+    "title": "JavaScript fundamentals before learning React",
+    "url": "https://www.robinwieruch.de/javascript-fundamentals-react-requirements/",
+    "created_on": "December 23, 2021 7:15 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/JavaScript fundamentals before learning React 0f3c516cf25646ee88136e6ab6222d9b.md",
+    "category": "Work",
+    "tags": [
+      "javascript",
+      "react",
+      "programming"
+    ],
+    "summary": "JavaScript fundamentals essential for React."
+  },
+  {
+    "title": "Vishal Misra on X: \"Video of my talk at MIT on LLMs. I go through the development of how they work step by step from first principles and explain a lot of empirical observations - do not talk about attention/transformers at all and is a fresh perspective on how/why LLMs work https://t.co/opb8YA2qbu\" / X",
+    "url": "https://twitter.com/vishalmisra/status/1774034125348901235",
+    "created_on": "March 30, 2024 2:52 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Vishal Misra on X Video of my talk at MIT on LLMs  e2b31f08466741e588bf9ef2f21f55b0.md",
+    "category": "Work",
+    "tags": [
+      "work",
+      "hours",
+      "schedule"
+    ],
+    "summary": "US work hours: 9-5 myth?"
+  },
+  {
+    "title": "Deploy LangChain on Cloud Run with LangServe | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/deploy-langchain-on-cloud-run-with-langserve",
+    "created_on": "November 29, 2023 6:54 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Deploy LangChain on Cloud Run with LangServe Googl 9e8cd837ce104049b97792f26194a5c5.md",
+    "category": "Work",
+    "tags": [
+      "langchain",
+      "deployment",
+      "ai"
+    ],
+    "summary": "Deploy LangChain AI apps easily."
+  },
+  {
+    "title": "Free Logo Maker - Get Custom Logo Designs in Minutes | Looka",
+    "url": "https://looka.com/editor/71886996",
+    "created_on": "August 18, 2021 9:46 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Free Logo Maker - Get Custom Logo Designs in Minut 6f83a6c9c4ac45c3b401d68695eb5fbb.md",
+    "category": "Work",
+    "tags": [
+      "brand",
+      "marketing",
+      "design"
+    ],
+    "summary": "Essential brand and marketing designs."
+  },
+  {
+    "title": "Eastern philosophy says there is no \"self.\" Science agrees",
+    "url": "https://bigthink.com/the-well/eastern-philosophy-neuroscience-no-self/",
+    "created_on": "June 11, 2023 1:39 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Eastern philosophy says there is no self Science a 2d3c2eee6f2b4a57ae6b0f2bde67bbf3.md",
+    "category": "Health",
+    "tags": [
+      "self",
+      "mind",
+      "philosophy"
+    ],
+    "summary": "Brain creates the illusory self."
+  },
+  {
+    "title": "Make It Mine's Customizable PopBox\u2122 - Gift idea",
+    "url": "https://www.makeitmine.co/products/popbox?currency=USD&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&nbt=nb%3Aadwords%3Au%3A15609278339%3A130467522199%3A570274987196&nb_adtype=&nb_kwd=&nb_ti=pla-1594562141967&nb_mi=128581363&nb_pc=online&nb_pi=shopify_US_2216329183291_40062121607213&nb_ppi=1594562141967&nb_placement=&nb_si={sourceid}&nb_li_ms=&nb_lp_ms=&nb_fii=&nb_ap=&nb_mt=&gclid=CjwKCAjwtcCVBhA0EiwAT1fY77oyAytKSv3FJyJ-AuJ9AefBfyMXQuDuUiF82_w7GoEU-MOeoiukPhoCzVgQAvD_BwE",
+    "created_on": "June 20, 2022 3:41 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Make It Mine's Customizable PopBox\u2122 - Gift idea b01a9590e878491ba19bdca0b8f4033e.md",
+    "category": "Wealth",
+    "tags": [
+      "gifts",
+      "product",
+      "ecommerce"
+    ],
+    "summary": "Customizable snack gift box product."
+  },
+  {
+    "title": "13 Bike Trails To Cycle Through This Spring",
+    "url": "https://njmonthly.com/articles/jersey-living/outdoors/happy-trails-13-bike-trails-cycle-this-spring/",
+    "created_on": "May 10, 2021 7:54 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/13 Bike Trails To Cycle Through This Spring 4c2bede4c4e940618b7cfc0d156c5015.md",
+    "category": "Health",
+    "tags": [
+      "bike",
+      "trails",
+      "cycling"
+    ],
+    "summary": "New Jersey bike trail guide."
+  },
+  {
+    "title": "GitHub - monktastic/blog",
+    "url": "https://github.com/monktastic/blog",
+    "created_on": "November 6, 2023 6:56 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/GitHub - monktastic blog 10a5f7d49e5840a1a0c0ec09ce8d9972.md",
+    "category": "Work",
+    "tags": [
+      "github",
+      "website",
+      "tutorial"
+    ],
+    "summary": "Easy websites via GitHub Pages."
+  },
+  {
+    "title": "Vata Dosha | HealthyGamer Wiki",
+    "url": "https://wiki.healthygamer.gg/en/Vata",
+    "created_on": "August 25, 2023 8:54 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Vata Dosha HealthyGamer Wiki 82ff7bb5c45b475485313834c10107d5.md",
+    "category": "Health",
+    "tags": [
+      "vata",
+      "mind",
+      "strategy"
+    ],
+    "summary": "Vatas succeed with diverse engagement."
+  },
+  {
+    "title": "Latency in Blob storage - Azure Storage | Microsoft Docs",
+    "url": "https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-latency",
+    "created_on": "February 11, 2022 7:18 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Latency in Blob storage - Azure Storage Microsoft  35cd54d3ce8243ed955450ca58f3664a.md",
+    "category": "Work",
+    "tags": [
+      "latency",
+      "azure",
+      "performance"
+    ],
+    "summary": "Analyze Azure blob storage latency."
+  },
+  {
+    "title": "GitHub - Python-World/python-mini-projects: A collection of simple python mini projects to enhance your python skills",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "created_on": "September 20, 2021 1:22 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/GitHub - bregman-arie devops-exercises Linux, Jenk a1d8b4b4da23400eb3a7f837890a43e4.md",
+    "category": "Work",
+    "tags": [
+      "devops",
+      "tech",
+      "software"
+    ],
+    "summary": "DevOps and tech work discussed."
+  },
+  {
+    "title": "Letter to My Past Self. Reflections on the personal journey of\u2026 | by Salman Khan | Medium",
+    "url": "https://medium.com/@sal_54692/hi-9af45ccc6a70",
+    "created_on": "May 5, 2021 5:06 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Letter to My Past Self Reflections on the personal afb34f82765742c4aab082af7d85504e.md",
+    "category": "Health",
+    "tags": [
+      "mind",
+      "improve",
+      "growth"
+    ],
+    "summary": "Article explores mind and self-improvement."
+  },
+  {
+    "title": "Constant craving: how digital media turned us all into dopamine addicts | Life and style | The Guardian",
+    "url": "https://www.theguardian.com/global/2021/aug/22/how-digital-media-turned-us-all-into-dopamine-addicts-and-what-we-can-do-to-break-the-cycle",
+    "created_on": "October 24, 2024 4:20 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Constant craving how digital media turned us all i 12945e69b16a8183992ff222cd3e62a0.md",
+    "category": "Health",
+    "tags": [
+      "addiction",
+      "dopamine",
+      "digital"
+    ],
+    "summary": "Smartphones create dopamine-driven behavioral addictions."
+  },
+  {
+    "title": "Power of unwavering focus notes ",
+    "url": "",
+    "created_on": "January 4, 2024 9:15 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Power of unwavering focus notes e90a71eee0d54bc4b7fa52f10f5b0c6b.md",
+    "category": "Work",
+    "tags": [
+      "focus",
+      "productivity",
+      "discipline"
+    ],
+    "summary": "Unwavering focus drives strong results."
+  },
+  {
+    "title": "LangChain \u2014 Custom Functions With OpenAI Functions | by Prince Krampah | Medium",
+    "url": "https://medium.com/@princekrampah/langchain-custom-functions-with-openai-functions-90e2deefd707",
+    "created_on": "April 4, 2024 10:12 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Learn RAG with Langchain \ud83e\udd9c\u26d3\ufe0f\u200d\ud83d\udca5 \u2014 Ragatouille 91a2d786d1e74eea9a8581e18652469c.md",
+    "category": "Work",
+    "tags": [
+      "rag",
+      "langchain",
+      "ai"
+    ],
+    "summary": "Master RAG with LangChain guide"
+  },
+  {
+    "title": "15 min strength workout Nick Huber sweaty startup",
+    "url": "https://youtube.com/watch?v=EuL017RWhT8&feature=share",
+    "created_on": "March 10, 2023 7:13 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/15 min strength workout Nick Huber sweaty startup 2294c33772804c828a16baae71c72d18.md",
+    "category": "Health",
+    "tags": [
+      "health",
+      "strength",
+      "fitness"
+    ],
+    "summary": "Key topics: health, strength, fitness."
+  },
+  {
+    "title": "Is waiting for a dip the best investment strategy? - I analyzed last 3 decades of stock market returns to determine if it makes sense to time the market! Here are the results! : r/investing",
+    "url": "https://www.reddit.com/r/investing/comments/pq03ob/is_waiting_for_a_dip_the_best_investment_strategy/",
+    "created_on": "October 16, 2021 6:32 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Is waiting for a dip the best investment strategy  5e9fd27c5d204e16a52a639be4e35710.md",
+    "category": "Wealth",
+    "tags": [
+      "investment",
+      "market",
+      "strategy"
+    ],
+    "summary": "Consistent investing outperforms difficult market timing."
+  },
+  {
+    "title": "Extraction | \ud83e\udd9c\ufe0f\ud83d\udd17 Langchain",
+    "url": "https://python.langchain.com/docs/use_cases/extraction/",
+    "created_on": "March 28, 2024 1:50 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Extraction \ud83e\udd9c\ufe0f\ud83d\udd17 Langchain bd331f420222468a877a4ca778c7bebc.md",
+    "category": "Work",
+    "tags": [
+      "llm",
+      "extraction",
+      "ai"
+    ],
+    "summary": "Guide to LLM information extraction."
+  },
+  {
+    "title": "From 21kms to 6packs in 5 months - ankur Warikoo Official Website",
+    "url": "https://ankurwarikoo.com/from-21kms-to-6packs-in-5-months/",
+    "created_on": "August 28, 2024 8:49 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/From 21kms to 6packs in 5 months - ankur Warikoo O 53dc339b2e9542ea987b4fe2f0d05cac.md",
+    "category": "Health",
+    "tags": [
+      "health",
+      "fitness",
+      "transformation"
+    ],
+    "summary": "Personal dedication achieves fitness transformation."
+  },
+  {
+    "title": "Brainboard \u00b7 GitHub Marketplace",
+    "url": "https://github.com/marketplace/brainboard",
+    "created_on": "September 26, 2022 11:27 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Brainboard \u00b7 GitHub Marketplace 071bb212cc194e998fbaac54d0da139f.md",
+    "category": "Work",
+    "tags": [
+      "cloud",
+      "terraform",
+      "infrastructure"
+    ],
+    "summary": "Brainboard builds cloud infrastructure quickly."
+  },
+  {
+    "title": "Multimodel search using NLP, BigQuery and embeddings | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/data-analytics/multimodel-search-using-nlp-bigquery-and-embeddings",
+    "created_on": "September 4, 2024 6:51 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Multimodel search using NLP, BigQuery and embeddin 73f8115a7700480f86360921e0232a1d.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "search",
+      "cloud"
+    ],
+    "summary": "Multimodal AI transforms enterprise search."
+  },
+  {
+    "title": "What is React: A Visual Introduction For Beginners",
+    "url": "https://learnreact.design/posts/what-is-react",
+    "created_on": "December 23, 2021 7:30 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/What is React A Visual Introduction For Beginners 1e7d3369af194fe6a81030844bf82327.md",
+    "category": "Work",
+    "tags": [
+      "react",
+      "coding",
+      "web"
+    ],
+    "summary": "React simplifies web UI development."
+  },
+  {
+    "title": "Pandas DataFrame UltraQuick Tutorial.ipynb - Colaboratory",
+    "url": "https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=mlcc-prework&hl=en",
+    "created_on": "April 22, 2023 3:44 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Pandas DataFrame UltraQuick Tutorial ipynb - Colab ddea452691474045847f4acf4ff842ea.md",
+    "category": "Work",
+    "tags": [
+      "pandas",
+      "data",
+      "python"
+    ],
+    "summary": "Pandas DataFrame data manipulation tutorial."
+  },
+  {
+    "title": "Self Talk - Scott Adams Says",
+    "url": "https://www.scottadamssays.com/self-talk/",
+    "created_on": "September 20, 2022 8:07 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Self Talk - Scott Adams Says 27850b3ea2304d86b56082520bb410a6.md",
+    "category": "Health",
+    "tags": [
+      "self-talk",
+      "mindset",
+      "affirmation"
+    ],
+    "summary": "Self-talk programs mind for well-being."
+  },
+  {
+    "title": "KNN (K Nearest Neighbors) in Python - ML From Scratch 01 - Python Engineer",
+    "url": "https://www.python-engineer.com/courses/mlfromscratch/01_knn/",
+    "created_on": "September 7, 2023 5:57 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/KNN (K Nearest Neighbors) in Python - ML From Scra 444e6dc3657e4f9aa68bad408c0709b2.md",
+    "category": "Work",
+    "tags": [
+      "algorithm",
+      "python",
+      "knn"
+    ],
+    "summary": "Python tutorial for KNN algorithm"
+  },
+  {
+    "title": "How to teach technical concepts with cartoons",
+    "url": "https://jvns.ca/teach-tech-with-cartoons/",
+    "created_on": "March 27, 2023 3:08 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/How to teach technical concepts with cartoons 9a15bea3e6d7449aa868613f00b17b16.md",
+    "category": "Work",
+    "tags": [
+      "explaining",
+      "tech",
+      "cartoons"
+    ],
+    "summary": "Simplify tech concepts through cartooning."
+  },
+  {
+    "title": "Avi Chawla on LinkedIn: Pandas receives over 3M downloads per day. But 99% of its users are not\u2026 | 67 comments",
+    "url": "https://www.linkedin.com/posts/avi-chawla_pandas-receives-over-3m-downloads-per-day-activity-7030484085068210176-XApG",
+    "created_on": "February 12, 2023 12:00 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Avi Chawla on LinkedIn Pandas receives over 3M dow 7e1b32cb990d461491077dfee469e395.md",
+    "category": "Work",
+    "tags": [
+      "python",
+      "pandas",
+      "data"
+    ],
+    "summary": "Supercharge Python Pandas data workflows."
+  },
+  {
+    "title": "Meeting Ticker",
+    "url": "https://tobytripp.github.io/meeting-ticker/",
+    "created_on": "June 27, 2021 8:04 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Meeting Ticker f34dfaa0f92e4ea295483723605f5677.md",
+    "category": "Work",
+    "tags": [
+      "github",
+      "project",
+      "tools"
+    ],
+    "summary": "Project development on GitHub, issues."
+  },
+  {
+    "title": "Imposter Syndrome | HealthyGamer Wiki",
+    "url": "https://wiki.healthygamer.gg/en/Imposter_Syndrome",
+    "created_on": "August 25, 2023 8:53 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Imposter Syndrome HealthyGamer Wiki 7b6be3b108b043f2854da9725c056121.md",
+    "category": "Health",
+    "tags": [
+      "imposter",
+      "mind",
+      "self"
+    ],
+    "summary": "Address imposter syndrome, value yourself."
+  },
+  {
+    "title": "Espp sale guidance fidelity",
+    "url": "https://communications.fidelity.com/sps_library/docs/bro-tax-espp-click.pdf",
+    "created_on": "March 3, 2022 8:46 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Espp sale guidance fidelity e7ccfb700af644d7a43f5b6247029a65.md",
+    "category": "Wealth",
+    "tags": [
+      "money",
+      "tax",
+      "espp"
+    ],
+    "summary": "Employee stock purchase plan tax."
+  },
+  {
+    "title": "Buddhism Frees You | Buddhism.net",
+    "url": "https://buddhism.net/posts/buddhism-for-all/b106-buddhism-frees-you/",
+    "created_on": "April 20, 2024 8:23 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Buddhism Frees You Buddhism net 5672189ab9f540b1bea843caf9236246.md",
+    "category": "Health",
+    "tags": [
+      "buddhism",
+      "freedom",
+      "mind"
+    ],
+    "summary": "Buddhism offers freedom from suffering."
+  },
+  {
+    "title": "Stepping Out | The New Yorker",
+    "url": "https://www.newyorker.com/magazine/2014/06/30/stepping-out-3",
+    "created_on": "September 16, 2025 6:33 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Stepping Out The New Yorker 27045e69b16a815ea095f3ab62469815.md",
+    "category": "Health",
+    "tags": [
+      "fitness",
+      "tracking",
+      "walking"
+    ],
+    "summary": "Fitbit motivates author's active lifestyle."
+  },
+  {
+    "title": "Gemini Document Search and Semantic Retrieval with Attributed Question Answering.ipynb - Colaboratory",
+    "url": "https://colab.research.google.com/drive/1RIDTmqj0JBVX8o7lDqLUAK9edwLwGxjF?usp=sharing",
+    "created_on": "December 17, 2023 2:51 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Gemini Document Search and Semantic Retrieval with 72c68a984fe249af806b2f1f5bc97355.md",
+    "category": "Work",
+    "tags": [
+      "api",
+      "embeddings",
+      "search"
+    ],
+    "summary": "Gemini API embeddings power document search."
+  },
+  {
+    "title": "Workload identity on AKS with Python: boring \u2013 Cloudtrooper",
+    "url": "https://blog.cloudtrooper.net/2022/11/19/workload-identity-on-aks-with-python-boring/",
+    "created_on": "November 25, 2022 12:10 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Workload identity on AKS with Python boring \u2013 Clou 79d7a948c0364be0af6dbd89626ab964.md",
+    "category": "Work",
+    "tags": [
+      "azure",
+      "kubernetes",
+      "identity"
+    ],
+    "summary": "AKS workload identity proves easy."
+  },
+  {
+    "title": "NillsF blog \u2013 Page 5 \u2013 Join me in discovering the wonderful world of technology.",
+    "url": "https://blog.nillsf.com/index.php/page/5/",
+    "created_on": "December 25, 2021 7:43 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/NillsF blog \u2013 Page 5 \u2013 Join me in discovering the  e22f5de55a3349a48534cb2ded54dbb9.md",
+    "category": "Work",
+    "tags": [
+      "kubernetes",
+      "troubleshooting",
+      "coredump"
+    ],
+    "summary": "Troubleshoot Kubernetes crashes with coredumps"
+  },
+  {
+    "title": "Revolutionizing Web Scraping: A Leap Forward with Multimodal Language Models | by Somnath Banerjee | Dec, 2023 | Medium",
+    "url": "https://somnath-banerjee.medium.com/revolutionizing-web-scraping-a-leap-forward-with-multimodal-language-models-96485dd17f07",
+    "created_on": "December 10, 2023 9:03 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Revolutionizing Web Scraping A Leap Forward with M fb6bdbeeafe34b8b9b605af41a7832ab.md",
+    "category": "Work",
+    "tags": [
+      "scraping",
+      "llm",
+      "data"
+    ],
+    "summary": "Multimodal LLMs simplify web scraping."
+  },
+  {
+    "title": "ICMR guidelines for nutrition for indians",
+    "url": "https://main.icmr.nic.in/sites/default/files/upload_documents/DGI_07th_May_2024_fin.pdf",
+    "created_on": "July 2, 2024 7:06 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/ICMR guidelines for nutrition for indians 536b269473614ae7b08eb65fa58029e1.md",
+    "category": "Health",
+    "tags": [
+      "nutrition",
+      "diet",
+      "food"
+    ],
+    "summary": "Indian dietary guidelines for health."
+  },
+  {
+    "title": "Create Azure Functions on Linux using a custom image | Microsoft Docs",
+    "url": "https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-linux-custom-image?tabs=in-process%2Cbash%2Cazure-cli&pivots=programming-language-python",
+    "created_on": "April 11, 2022 8:33 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Create Azure Functions on Linux using a custom ima c580c26c18304c7da08c160d5582adfa.md",
+    "category": "Work",
+    "tags": [
+      "azure",
+      "docker",
+      "deploy"
+    ],
+    "summary": "Deploy Azure Functions using Docker"
+  },
+  {
+    "title": "Comparison of migration tools in Azure File Migration Program | Microsoft Docs",
+    "url": "https://docs.microsoft.com/en-us/azure/storage/solution-integration/validated-partners/data-management/azure-file-migration-program-solutions",
+    "created_on": "September 12, 2022 7:14 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Comparison of migration tools in Azure File Migrat 2080fa6b5da04cccb20d314e5c74a2af.md",
+    "category": "Work",
+    "tags": [
+      "azure",
+      "tech",
+      "cloud"
+    ],
+    "summary": "Content covers Azure tech topics."
+  },
+  {
+    "title": "Highly recommend practical - Practical Deep Learning for Coders - Practical Deep Learning",
+    "url": "https://course.fast.ai/",
+    "created_on": "September 6, 2025 7:52 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Practical Deep Learning for Coders - 1 Getting sta 10b45e69b16a817aa9e7c8dbcb708409.md",
+    "category": "Work",
+    "tags": [
+      "learning",
+      "coding",
+      "machinelearning"
+    ],
+    "summary": "Practical deep learning course setup instructions."
+  },
+  {
+    "title": "Very cool compilation of LLM GenAI resources ",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7253724104619438080",
+    "created_on": "October 20, 2024 7:49 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Very cool compilation of LLM GenAI resources 12545e69b16a81ada5dcfbcada65903e.md",
+    "category": "Work",
+    "tags": [
+      "inference",
+      "ai",
+      "llm"
+    ],
+    "summary": "LayerSkip accelerates LLM inference significantly."
+  },
+  {
+    "title": "28mm/blast-radius: Interactive visualizations of Terraform dependency graphs using d3.js",
+    "url": "https://github.com/28mm/blast-radius",
+    "created_on": "September 26, 2022 11:28 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/28mm blast-radius Interactive visualizations of Te f39c6f2e1eb34794b7f25f6c381fa3f9.md",
+    "category": "Work",
+    "tags": [
+      "terraform",
+      "visualization",
+      "infrastructure"
+    ],
+    "summary": "Visualize Terraform infrastructure using graphs."
+  },
+  {
+    "title": "The easy (and nice) way to do CLI apps in Python | Thomas Stringer",
+    "url": "https://trstringer.com/easy-and-nice-python-cli/",
+    "created_on": "February 7, 2022 2:59 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/The easy (and nice) way to do CLI apps in Python T 2bc0ee8ad07e42e4bc18f529bf6ccaf1.md",
+    "category": "Work",
+    "tags": [
+      "python",
+      "cli",
+      "development"
+    ],
+    "summary": "Build Python command-line applications easily"
+  },
+  {
+    "title": "This Two-Minute Morning Practice Will Make Your Day Better",
+    "url": "http://neil.blog/",
+    "created_on": "October 3, 2021 11:34 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/This Two-Minute Morning Practice Will Make Your Da d832889fbb8c4672a88593f450dafa54.md",
+    "category": "Health",
+    "tags": [
+      "happiness",
+      "resilience",
+      "intention"
+    ],
+    "summary": "Neil Pasricha teaches intentional living."
+  },
+  {
+    "title": "Nick Huber on Twitter: \"Time for a BOOK LIST. I've read over 250 self-help and business books.. Heres a list of the ones that have had the largest influence on my life and career. A thread:\" / Twitter",
+    "url": "https://twitter.com/sweatystartup/status/1354781881317937154",
+    "created_on": "March 10, 2023 7:16 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Nick Huber on Twitter Time for a BOOK LIST I've re 341de32d68b14ed6806782563a7acab5.md",
+    "category": "Work",
+    "tags": [
+      "productivity",
+      "mindset",
+      "improvement"
+    ],
+    "summary": "Improve mind for better work."
+  },
+  {
+    "title": "Building A LinkedIn Content Creation Agency Using Google\u2019s Agent Development Kit",
+    "url": "https://intoai.pub/p/building-a-linkedin-content-creation",
+    "created_on": "April 18, 2025 6:27 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Building A LinkedIn Content Creation Agency Using  1d945e69b16a81aca127d5831a0211fe.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "agents",
+      "development"
+    ],
+    "summary": "Google ADK builds multi-agent content."
+  },
+  {
+    "title": "The insula: an underestimated brain area in clinical neuroscience, psychiatry, and neurology - PMC",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5538352/",
+    "created_on": "May 7, 2024 6:35 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/The insula an underestimated brain area in clinica 7f49f55c1c1b4300a2dd7120ef66c679.md",
+    "category": "Health",
+    "tags": [
+      "insula",
+      "brain",
+      "disorders"
+    ],
+    "summary": "Insula: anatomy, function, pathology explored."
+  },
+  {
+    "title": "The Terrible Costs of a Phone-Based Childhood - The Atlantic",
+    "url": "https://www.theatlantic.com/technology/archive/2024/03/teen-childhood-smartphone-use-mental-health-effects/677722/",
+    "created_on": "March 21, 2024 2:08 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/The Terrible Costs of a Phone-Based Childhood - Th 5f1fa8a464204e99a4ea2ff68da7a206.md",
+    "category": "Health",
+    "tags": [
+      "smartphones",
+      "mental",
+      "youth"
+    ],
+    "summary": "Phones harm youth mental health."
+  },
+  {
+    "title": "Gathas for Daily Living | Buddhism.net",
+    "url": "https://buddhism.net/gathas-for-daily-living/",
+    "created_on": "October 28, 2023 8:05 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Gathas for Daily Living Buddhism net 23295551708841498933f4dc1be54fb5.md",
+    "category": "Health",
+    "tags": [
+      "mindfulness",
+      "buddhism",
+      "gathas"
+    ],
+    "summary": "Gathas foster daily mindful living."
+  },
+  {
+    "title": "Are you using AKS Log Analytics?. If you\u2019re like a lot of customers, it\u2019s\u2026 | by Chase | Dec, 2022 | ITNEXT",
+    "url": "https://itnext.io/are-you-using-aks-log-analytics-e0d1881dea29",
+    "created_on": "January 7, 2023 4:54 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Are you using AKS Log Analytics If you\u2019re like a l 5957cb8968e247888c4d3ae558596d19.md",
+    "category": "Work",
+    "tags": [
+      "kubernetes",
+      "azure",
+      "monitoring"
+    ],
+    "summary": "Customize Azure Kubernetes monitoring insights."
+  },
+  {
+    "title": "break-into-data/ai-engineer-toolkit: Projects & Resources to help you become a better AI Developer.",
+    "url": "https://github.com/break-into-data/ai-engineer-toolkit",
+    "created_on": "March 3, 2025 10:34 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/break-into-data ai-engineer-toolkit Projects & Res 1ac45e69b16a8143ab41e169780c4c08.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "tools",
+      "development"
+    ],
+    "summary": "Comprehensive AI engineering tools guide."
+  },
+  {
+    "title": "Where is everybody on the subway going?",
+    "url": "https://new.mta.info/article/where-everybody-subway-going",
+    "created_on": "February 22, 2024 7:14 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Where is everybody on the subway going 26dcaa2522e641a392730d8bc4661838.md",
+    "category": "Work",
+    "tags": [
+      "subway",
+      "data",
+      "modeling"
+    ],
+    "summary": "MTA models subway rider journeys."
+  },
+  {
+    "title": "ibonds interest rate",
+    "url": "https://www.treasurydirect.gov/indiv/research/indepth/ibonds/IBondRateChart.pdf",
+    "created_on": "April 12, 2022 3:39 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/ibonds interest rate 9144d057212c4576a229ca51f37711eb.md",
+    "category": "Wealth",
+    "tags": [
+      "money",
+      "ibonds",
+      "rates"
+    ],
+    "summary": "IBond interest rate chart details."
+  },
+  {
+    "title": "GitHub - MrSentinel137/crewai-gemini-pro-vision: AI Agents with Google's Gemini Pro and Gemini Pro Vision Models",
+    "url": "https://github.com/MrSentinel137/crewai-gemini-pro-vision",
+    "created_on": "April 3, 2024 9:46 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/GitHub - MrSentinel137 crewai-gemini-pro-vision AI 091d47da0e894885907e65638dfedf60.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "agents",
+      "gemini"
+    ],
+    "summary": "AI agents use Gemini models."
+  },
+  {
+    "title": "Good Frontend prompt - Claude Designer is insane...Ultimate vibe coding UI workflow - YouTube",
+    "url": "https://www.youtube.com/watch?v=PLbwB5_HIdc",
+    "created_on": "March 26, 2025 8:12 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Good Frontend prompt - Claude Designer is insane U 1c345e69b16a81efb94ac7370346c5c1.md",
+    "category": "Work",
+    "tags": [
+      "youtube",
+      "video",
+      "link"
+    ],
+    "summary": "Content from external link inaccessible."
+  },
+  {
+    "title": "Azure Firewall\u2019s sidekick to join the BGP superheroes \u2013 Cloudtrooper",
+    "url": "https://blog.cloudtrooper.net/2022/05/02/azure-firewalls-sidekick-to-join-the-bgp-superheroes/",
+    "created_on": "May 3, 2022 4:51 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Azure Firewall\u2019s sidekick to join the BGP superher ebaa82ecfe1b4a4a95e8e9744a8b480e.md",
+    "category": "Work",
+    "tags": [
+      "azure",
+      "networking",
+      "cloud"
+    ],
+    "summary": "Integrate Azure Firewall, Route Server."
+  },
+  {
+    "title": "Generative AI applications with Vertex AI PaLM 2 Models and LangChain | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-applications-with-vertex-ai-palm-2-models-and-langchain",
+    "created_on": "August 27, 2023 9:31 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Generative AI applications with Vertex AI PaLM 2 M 32fdfabf9a1149acb2587b1eb9ccfd45.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "development",
+      "langchain"
+    ],
+    "summary": "LangChain simplifies Vertex AI application building."
+  },
+  {
+    "title": "The Noble Search, Without Google | Buddhism.net",
+    "url": "https://buddhism.net/posts/buddhism-for-all/b204-the-noble-search-without-google/",
+    "created_on": "April 20, 2024 8:26 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/The Noble Search, Without Google Buddhism net bf23da731c6d411f8ac2671bc5e74bf0.md",
+    "category": "Health",
+    "tags": [
+      "meditation",
+      "buddhism",
+      "enlightenment"
+    ],
+    "summary": "Siddhattha abandons austerity, seeks joy."
+  },
+  {
+    "title": "GitHub - google-gemini/gemini-fullstack-langgraph-quickstart: Get started with building Fullstack Agents using Gemini 2.5 and LangGraph",
+    "url": "https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart",
+    "created_on": "June 6, 2025 8:28 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/GitHub - google-gemini gemini-fullstack-langgraph- 20b45e69b16a8182ada0e0c964cad324.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "development",
+      "langgraph"
+    ],
+    "summary": "Fullstack AI research agent quickstart."
+  },
+  {
+    "title": "Centenarian Decathlon ",
+    "url": "https://twitter.com/bensmithlive/status/1787785445473947921",
+    "created_on": "May 7, 2024 1:25 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Centenarian Decathlon 3036040d42e74654b378bb4996623b0e.md",
+    "category": "Work",
+    "tags": [
+      "error",
+      "link",
+      "unavailable"
+    ],
+    "summary": "Cannot access external link content."
+  },
+  {
+    "title": "It's 2 a.m. Do you know where your bus is?",
+    "url": "https://new.mta.info/article/its-2-am-do-you-know-where-your-bus",
+    "created_on": "January 23, 2024 7:29 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/MTA_Bus_Tracker get_bus_info_pak348 py at master \u00b7 0e27247029e54e83b43a6d4a8c5fbb6f.md",
+    "category": "Work",
+    "tags": [
+      "programming",
+      "api",
+      "data"
+    ],
+    "summary": "Python script extracts bus status data."
+  },
+  {
+    "title": "Auto-scaling + Kubernetes = KEDA \u2014 Part 2 | by Evgeny Grishchenko | Dev Genius",
+    "url": "https://blog.devgenius.io/auto-scaling-kubernetes-keda-part-2-72fb3fc21c27",
+    "created_on": "April 11, 2022 8:27 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Auto-scaling + Kubernetes = KEDA \u2014 Part 2 by Evgen 9d0bc88fe31049649c611b54d4dd65a4.md",
+    "category": "Work",
+    "tags": [
+      "kubernetes",
+      "scaling",
+      "azure"
+    ],
+    "summary": "Kubernetes auto-scaling with Azure KEDA"
+  },
+  {
+    "title": "Not Mine, Not I, Not My Self | Buddhism.net",
+    "url": "https://buddhism.net/posts/buddhism-for-all/b405-not-mine-not-i-not-my-self/",
+    "created_on": "April 24, 2024 6:47 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Not Mine, Not I, Not My Self Buddhism net 049288a5613a47448cf47910f76b4e74.md",
+    "category": "Health",
+    "tags": [
+      "buddhism",
+      "suffering",
+      "non-self"
+    ],
+    "summary": "Buddhist non-self ends suffering, liberates."
+  },
+  {
+    "title": "Life is Not All Suffering, and That is a Problem | Buddhism.net",
+    "url": "https://buddhism.net/posts/buddhism-for-all/b306-life-is-not-all-suffering-and-that-is-a-problem/",
+    "created_on": "April 21, 2024 7:31 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Life is Not All Suffering, and That is a Problem B 80208c137e1d4b02bab957cd39f637b4.md",
+    "category": "Health",
+    "tags": [
+      "buddhism",
+      "suffering",
+      "wisdom"
+    ],
+    "summary": "Buddhism clarifies suffering's true nature."
+  },
+  {
+    "title": "LangChain, Gemini & MongoDB Chatbot Guide",
+    "url": "https://cckeh.hashnode.dev/building-chatbots-with-memory-capabilities-a-comprehensive-tutorial-with-langchain-langgraph-gemini-ai-and-mongodb",
+    "created_on": "January 20, 2025 11:21 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/LangChain, Gemini & MongoDB Chatbot Guide 18145e69b16a817593bec956a11f5e0f.md",
+    "category": "Work",
+    "tags": [
+      "chatbot",
+      "ai",
+      "programming"
+    ],
+    "summary": "Build AI chatbots with memory."
+  },
+  {
+    "title": "Dan Harris on X: \"This stretch changed my life. Overused term, but true nonetheless. I would estimate a 60% reduction in lower back pain. But you have to do 8-30 mins per side, so being reading material. https://t.co/vaUryYd3c7\" / X",
+    "url": "https://x.com/danbharris/status/1792554911240012180",
+    "created_on": "May 20, 2024 10:31 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Dan Harris on X This stretch changed my life Overu f88f9144d7f5418cb01719cf68dabac3.md",
+    "category": "health",
+    "tags": [
+      "inaccessible",
+      "content",
+      "unavailable"
+    ],
+    "summary": "Content inaccessible; unable to analyze."
+  },
+  {
+    "title": "Meditation Techniques | HealthyGamer Wiki",
+    "url": "https://wiki.healthygamer.gg/en/Meditation_Techniques",
+    "created_on": "July 18, 2023 10:02 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Meditation Techniques HealthyGamer Wiki 7c0a8d6704a04f07b1f12504ec5c2915.md",
+    "category": "Health",
+    "tags": [
+      "meditation",
+      "breathing",
+      "anxiety"
+    ],
+    "summary": "Breathing meditations improve mental well-being."
+  },
+  {
+    "title": "Clinging Onto Aggregates is Like Grabbing Hold of Water | Buddhism.net",
+    "url": "https://buddhism.net/posts/buddhism-for-all/b305-clinging-onto-aggregates-is-like-grabbing-hold-of-water/",
+    "created_on": "April 21, 2024 7:31 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Clinging Onto Aggregates is Like Grabbing Hold of  fe9d3d6b1fc041c4a00356d5ef9c077f.md",
+    "category": "Health",
+    "tags": [
+      "buddhism",
+      "suffering",
+      "grasping"
+    ],
+    "summary": "Suffering from grasping, find understanding."
+  },
+  {
+    "title": "Andrej karpathy best intro to LLM https://youtube.com/watch?v=zjkBMFhNj_g&si=c4h40hoArqYsml3D",
+    "url": "",
+    "created_on": "November 23, 2023 12:20 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Andrej karpathy best intro to LLM https youtube co 54603573eb5d406a90bf2c9dd4652e44.md",
+    "category": "Work",
+    "tags": [
+      "productivity",
+      "collaboration",
+      "software"
+    ],
+    "summary": "Productivity software for work management."
+  },
+  {
+    "title": "Simplify your Agent \"vibe building\" flow with ADK and Gemini CLI - Google Developers Blog",
+    "url": "https://developers.googleblog.com/en/simplify-agent-building-adk-gemini-cli/?trk=feed_main-feed-card_feed-article-content",
+    "created_on": "July 17, 2025 8:02 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Simplify your Agent vibe building flow with ADK an 23345e69b16a81139002c82a4324a146.md",
+    "category": "Work",
+    "tags": [
+      "developer",
+      "ai",
+      "agents"
+    ],
+    "summary": "Supercharge AI agent building workflow."
+  },
+  {
+    "title": "Pandas Standard Deviation: Analyse Your Data With Python",
+    "url": "https://codefather.tech/blog/pandas-standard-deviation/",
+    "created_on": "December 30, 2021 2:21 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Pandas Standard Deviation Analyse Your Data With P b8930694cbab431eb6731a37240e90fd.md",
+    "category": "Wealth",
+    "tags": [
+      "python",
+      "pandas",
+      "stocks"
+    ],
+    "summary": "Pandas calculates stock data deviation."
+  },
+  {
+    "title": "Meditation Dr Alok (DrK) healthygamersgg",
+    "url": "https://wiki.healthygamer.gg/en/Meditation",
+    "created_on": "July 7, 2023 10:33 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Meditation Dr Alok (DrK) healthygamersgg fd52ba2388b54669a93974018c584191.md",
+    "category": "Health",
+    "tags": [
+      "meditation",
+      "focus",
+      "mind"
+    ],
+    "summary": "Meditation trains mind, improves focus."
+  },
+  {
+    "title": "Let\u2019s Understand the Important Pandas Functions for Data Science | by Rahul Kotecha | Dec, 2021 | Python in Plain English",
+    "url": "https://python.plainenglish.io/lets-understand-important-pandas-functions-for-data-science-52f42160b8e8",
+    "created_on": "December 31, 2021 7:45 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Let\u2019s Understand the Important Pandas Functions fo 86f98a0361f240af918050b77596ba80.md",
+    "category": "Work",
+    "tags": [
+      "pandas",
+      "python",
+      "data"
+    ],
+    "summary": "Pandas simplifies Python data analysis."
+  },
+  {
+    "title": "Learning The Wrong Lessons - The Irrelevant Investor",
+    "url": "https://theirrelevantinvestor.com/2018/11/09/learning-the-wrong-lessons/",
+    "created_on": "October 25, 2021 1:06 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Learning The Wrong Lessons - The Irrelevant Invest d6ab13cf56b24a8787aa304530d22e88.md",
+    "category": "Wealth",
+    "tags": [
+      "investing",
+      "risk",
+      "diversification"
+    ],
+    "summary": "Diversify globally, manage investment risks."
+  },
+  {
+    "title": "Journey Of The Geek | The chronicles of a Bostonian tech geek navigating through life, technology, and general geekiness.",
+    "url": "https://journeyofthegeek.com/",
+    "created_on": "November 4, 2022 12:25 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Journey Of The Geek The chronicles of a Bostonian  4f9369f8cff0405b89e20716bdfcc0b4.md",
+    "category": "Work",
+    "tags": [
+      "azure",
+      "backup",
+      "security"
+    ],
+    "summary": "Securing Azure backups with Resource Guard."
+  },
+  {
+    "title": "Prompt engineering techniques with Azure OpenAI - Azure OpenAI Service | Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions",
+    "created_on": "April 25, 2023 5:45 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Prompt engineering techniques with Azure OpenAI -  107faefcba66400d93964e8b380c41ba.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "engineering",
+      "azure"
+    ],
+    "summary": "Master prompt engineering Azure OpenAI models"
+  },
+  {
+    "title": "How citymeetings.nyc uses AI to make it easy to navigate city council meetings | Vikram Oberoi",
+    "url": "https://vikramoberoi.com/posts/how-citymeetings-nyc-uses-ai-to-make-it-easy-to-navigate-city-council-meetings/",
+    "created_on": "February 25, 2025 4:24 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/How citymeetings nyc uses AI to make it easy to na 1a545e69b16a81ecae00d9286d2e901c.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "data",
+      "government"
+    ],
+    "summary": "AI organizes city council meeting data."
+  },
+  {
+    "title": "Mitochondria as chi - bm hedge ",
+    "url": "https://watermark.silverchair.com/genetics0727.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAtkwggLVBgkqhkiG9w0BBwagggLGMIICwgIBADCCArsGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM5i08fioJfk4gpOwpAgEQgIICjJFz84klhK_Cf_xZM3B2_IfitXjvzBltBcZT1v_0CVzt02az2_tJiMekTSRs86yHp6yhfGdBEOiVtGY-ugOeSYwQ0jmdjxiNz1jI8qyg9wRoQmPD69Bwrct9EZDYICkH21ZDa6KCYg74hwuFguWuYcWuHA8qrisEWqKpT6sNEyAjQoesJdiN5rGlqQBdu0Gbh46we_kZUpwkSSTVrXevEcl8PJO8VmFTMwEbMCAhdzxkbtDUknNQYzLuYMl4voy0aAWz5K_Dtt7dRLpNBqMGD4rGqwKoFTBKV0eRuM-rGrjaqjv2Yk5K7n2CTrFw5rXaiUGNoaKQu7E0cguOiAPuofqJvyrk_2Zaue4JURPF7ni_D9k0Y2MvMheonT9B2nncRb3IZS9u9upbQ70R0PV_O18DU3FaCKgdBVjwZgvPIiogSyYiNfOIW1NMCDLVdBAreOIcsaXVnhfnEU1Tv4pY2QhClk7V5CsJi3YFpxosR6kH9uny4X7msxkWxA_6j9gpjVTps-VYNT2dyGHbFcYm2L9N_uj4hoM1b96MkUjmzTVnQfJtylQgBHXoDviwJ3f0TpqE-xoOmuUxNJGHxd4stXIVf3jvxbAFI0G2S6LfirTLw6EvV2Fc_6KhyDNza37tDFbAFlYJ78uFmfzto1ck4d-PAGhIwhnqWr0eU_opgEFaNMhF3sJ1vrbQI_Ls_Aq1TBFMHg83f21PvJJHLrSJin3fAivFHteLqni6peN5HPMuX8nI5oBKBO1PyAsOijhoNfRpo89fbCiBVPOUquQfOqvNNdCcgBcy-j0603Esy544wkePle-9E7o3Jt03M4INsyNFde39qxrVkx-Kw4nOneX9vjfwNXOXqkFZOt4",
+    "created_on": "December 27, 2022 1:51 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Mitochondria as chi - bm hedge 9a6a3461aed34498b357bf12136a128b.md",
+    "category": "Health",
+    "tags": [
+      "health",
+      "genetics",
+      "research"
+    ],
+    "summary": "Health genetics research paper available."
+  },
+  {
+    "title": "Overview - Chainlit",
+    "url": "https://docs.chainlit.io/get-started/overview",
+    "created_on": "January 22, 2024 7:56 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Overview - Chainlit 04a8aeef172b4e1da194f42853e89433.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "python",
+      "conversational"
+    ],
+    "summary": "Chainlit builds production conversational AI."
+  },
+  {
+    "title": "Diving into GCP\u2019s BigQuery ML & AutoML Tables with Covid19 Big Data | by Thomas Jaensch | Medium",
+    "url": "https://medium.com/@tebugging/diving-into-gcps-bigquery-ml-automl-tables-with-covid19-big-data-3208b2a0d702",
+    "created_on": "January 26, 2025 8:34 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Diving into GCP\u2019s BigQuery ML & AutoML Tables with 18745e69b16a81a9aeccda81c64bf455.md",
+    "category": "Work",
+    "tags": [
+      "machine",
+      "bigquery",
+      "data"
+    ],
+    "summary": "BigQuery ML builds data models."
+  },
+  {
+    "title": "Use Google ADK and MCP with an external server | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/use-google-adk-and-mcp-with-an-external-server",
+    "created_on": "May 16, 2025 12:15 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Use Google ADK and MCP with an external server Goo 1f545e69b16a81869da6d6d8d7f40f20.md",
+    "category": "Work",
+    "tags": [
+      "agent",
+      "protocol",
+      "development"
+    ],
+    "summary": "ADK agents connect external MCP servers."
+  },
+  {
+    "title": "Best Story Wins \u00b7 Collaborative Fund",
+    "url": "http://www.collaborativefund.com/blog/story/",
+    "created_on": "August 15, 2021 5:37 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Best Story Wins \u00b7 Collaborative Fund 5eabf4c00c8949a5a8cd9e519f317ce5.md",
+    "category": "Work",
+    "tags": [
+      "storytelling",
+      "success",
+      "influence"
+    ],
+    "summary": "Best story wins, not facts."
+  },
+  {
+    "title": "krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024",
+    "url": "https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024",
+    "created_on": "March 3, 2025 10:38 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/krishnaik06 Roadmap-To-Learn-Generative-AI-In-2024 1ac45e69b16a81f8b776db7e0dcd1572.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "learning",
+      "programming"
+    ],
+    "summary": "Generative AI learning roadmap outlined."
+  },
+  {
+    "title": "Photopea | Online Photo Editor",
+    "url": "https://www.photopea.com/",
+    "created_on": "June 9, 2021 6:40 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Photopea Online Photo Editor 9ca00facbfe04007a24ba61c35563832.md",
+    "category": "Work",
+    "tags": [
+      "editor",
+      "image",
+      "online"
+    ],
+    "summary": "Free online image editor application."
+  },
+  {
+    "title": "Anita Dakhe - power of thrift -On meditation \u2022 The Power of Thrift",
+    "url": "https://thepowerofthrift.com/on-meditation/",
+    "created_on": "February 22, 2022 6:44 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Anita Dakhe - power of thrift -On meditation \u2022 The f9af8c48e649443e9455e6eed6f61398.md",
+    "category": "Wealth",
+    "tags": [
+      "money",
+      "finance",
+      "economy"
+    ],
+    "summary": "Discusses topics related to money."
+  },
+  {
+    "title": "Jerry Seinfeld said daily meditation and lifting weights have completely changed his life - Upworthy",
+    "url": "https://www.upworthy.com/amp/jerry-seinfeld-shared-the-two-habits-he-believes-can-solve-just-about-anyones-life-2649752114",
+    "created_on": "October 10, 2022 6:17 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Jerry Seinfeld said daily meditation and lifting w 18148af0c5f14ac7b8f488d1610569b0.md",
+    "category": "Health",
+    "tags": [
+      "meditation",
+      "exercise",
+      "wellness"
+    ],
+    "summary": "Seinfeld's meditation, exercise boosts well-being."
+  },
+  {
+    "title": "January Effect, Etc: Which Months are Best (and Worst) for the Stock Market?",
+    "url": "http://www.moneychimp.com/features/monthly_returns.htm",
+    "created_on": "March 10, 2022 7:44 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/January Effect, Etc Which Months are Best (and Wor c8a7bca04db84d5c9549a37ff6bbee82.md",
+    "category": "Wealth",
+    "tags": [
+      "money",
+      "investing",
+      "markets"
+    ],
+    "summary": "Analyze monthly market performance trends."
+  },
+  {
+    "title": "Suffering | HealthyGamer Wiki",
+    "url": "https://wiki.healthygamer.gg/en/Suffering",
+    "created_on": "August 25, 2023 8:54 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Suffering HealthyGamer Wiki e2028f7fe0164083b4dfed0f342a7e25.md",
+    "category": "Health",
+    "tags": [
+      "suffering",
+      "detachment",
+      "emotions"
+    ],
+    "summary": "Detach from outcomes, avoid suffering."
+  },
+  {
+    "title": "Gemini in BigQuery features are now GA | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/data-analytics/gemini-in-bigquery-features-are-now-ga",
+    "created_on": "September 4, 2024 6:18 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Gemini in BigQuery features are now GA Google Clou d7241533104c47f58712407f413bfee8.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "data",
+      "business"
+    ],
+    "summary": "AI revolutionizes business data analytics."
+  },
+  {
+    "title": "You Already Have Gold in that Ball of Dung | Buddhism.net",
+    "url": "https://buddhism.net/posts/buddhism-for-all/b406-you-already-have-gold-in-that-ball-of-dung/",
+    "created_on": "April 24, 2024 6:48 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/You Already Have Gold in that Ball of Dung Buddhis 57aea7c38b6c46f2b753bc7da62e88c8.md",
+    "category": "Health",
+    "tags": [
+      "suffering",
+      "buddhism",
+      "mind"
+    ],
+    "summary": "Suffering caused, mind already pure."
+  },
+  {
+    "title": "Little book of deep learning",
+    "url": "https://fleuret.org/public/lbdl.pdf",
+    "created_on": "November 26, 2023 12:13 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Little book of deep learning 5953a79aea97482398892f27115353dd.md",
+    "category": "Work",
+    "tags": [
+      "machine",
+      "learning",
+      "algorithms"
+    ],
+    "summary": "Lectures on machine learning fundamentals"
+  },
+  {
+    "title": "Where Suffering Stops Being About Religion and Starts Being About Cause and Effect | Buddhism.net",
+    "url": "https://buddhism.net/posts/buddhism-for-all/b402-where-suffering-stops-being-about-religion-and-starts-being-about-cause-and-effect/",
+    "created_on": "April 24, 2024 6:47 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Where Suffering Stops Being About Religion and Sta f3d22702a0134b849b9135b334155933.md",
+    "category": "Health",
+    "tags": [
+      "suffering",
+      "craving",
+      "buddhism"
+    ],
+    "summary": "Buddha: craving causes all suffering."
+  },
+  {
+    "title": "Prettify Your Data Structures With Pretty Print in Python \u2013 Real Python",
+    "url": "https://realpython.com/python-pretty-print/",
+    "created_on": "December 29, 2021 12:04 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Prettify Your Data Structures With Pretty Print in 367332a2a5ab42f4a036b1259c618d78.md",
+    "category": "Work",
+    "tags": [
+      "python",
+      "debugging",
+      "data"
+    ],
+    "summary": "Pretty print Python data structures."
+  },
+  {
+    "title": "Harvard and Stanford courses",
+    "url": "https://www.linkedin.com/feed/update/activity:7055614317005574144",
+    "created_on": "April 22, 2023 3:39 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Harvard and Stanford courses 52b94c3dee2d4ff8867eb470a5f1a9bd.md",
+    "category": "Wealth",
+    "tags": [
+      "ai",
+      "amazon",
+      "business"
+    ],
+    "summary": "Amazon profits from AI infrastructure."
+  },
+  {
+    "title": "Machine Learning \u00a0|\u00a0 Google Developers",
+    "url": "https://developers.google.com/machine-learning/crash-course",
+    "created_on": "April 22, 2023 3:44 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Machine Learning Google Developers aaf464e428de48d6bfeefa43f497e64b.md",
+    "category": "Work",
+    "tags": [
+      "machine",
+      "learning",
+      "google"
+    ],
+    "summary": "Google offers machine learning crash course"
+  },
+  {
+    "title": "generative-ai/open-models/serving/vertex_ai_ollama_gemma2_rag_agent.ipynb at main \u00b7 GoogleCloudPlatform/generative-ai \u00b7 GitHub",
+    "url": "https://github.com/GoogleCloudPlatform/generative-ai/blob/main/open-models/serving/vertex_ai_ollama_gemma2_rag_agent.ipynb",
+    "created_on": "January 26, 2025 7:17 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/generative-ai gemini use-cases education ai_quick_ 12e45e69b16a81d89c6ec7aa0d5444df.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "education",
+      "application"
+    ],
+    "summary": "Generative AI education application backend."
+  },
+  {
+    "title": "FastAPI Handle Form Data & Upload Files - YouTube",
+    "url": "https://www.youtube.com/watch?v=Ofesfy686jY&list=PL0lYY7rL__yJKvrhuIae-SHY7bZm9Vasb&index=5",
+    "created_on": "December 31, 2021 2:08 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/FastAPI Handle Form Data & Upload Files - YouTube 0ebf55c816e44e27b18bc522fb865c35.md",
+    "category": "Wealth",
+    "tags": [
+      "money",
+      "python",
+      "tech"
+    ],
+    "summary": "Learn Python for financial technology."
+  },
+  {
+    "title": "Linux essential concepts to learn",
+    "url": "https://www.linkedin.com/feed?trk=p_mwlite_profile_self-primary_nav",
+    "created_on": "March 2, 2023 9:16 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Linux essential concepts to learn 605c3175d35e429e8524a60b978c47d2.md",
+    "category": "Work",
+    "tags": [
+      "linux",
+      "devops",
+      "career"
+    ],
+    "summary": "Develop Linux for DevOps career."
+  },
+  {
+    "title": "Moderate Drinking Has No Health Benefits, Analysis of Decades of Research Finds - The New York Times",
+    "url": "https://www.nytimes.com/2023/04/04/health/alcohol-health-effects.html",
+    "created_on": "April 5, 2023 4:49 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Moderate Drinking Has No Health Benefits, Analysis 7c97bcf92d52447a8ad8cea9ebed2d16.md",
+    "category": "Health",
+    "tags": [
+      "alcohol",
+      "health",
+      "drinking"
+    ],
+    "summary": "Moderate drinking lacks health benefits."
+  },
+  {
+    "title": "Grokking Algorithms",
+    "url": "https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf",
+    "created_on": "February 13, 2022 7:49 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Grokking Algorithms 669ddd8f049240ea8b56407d6cf89be4.md",
+    "category": "Work",
+    "tags": [
+      "tech",
+      "algorithms",
+      "programming"
+    ],
+    "summary": "Learn algorithms for curious programmers."
+  },
+  {
+    "title": "Morgan Housel recommended books list (24 books)",
+    "url": "https://www.goodreads.com/list/show/145003.Morgan_Housel_recommended_books_list",
+    "created_on": "May 26, 2022 8:22 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Morgan Housel recommended books list (24 books) cae1e264ec874a858ac36b14123b3457.md",
+    "category": "Wealth",
+    "tags": [
+      "mind",
+      "books",
+      "finance"
+    ],
+    "summary": "Morgan Housel's recommended finance books."
+  },
+  {
+    "title": "Productivity | HealthyGamer Wiki",
+    "url": "https://wiki.healthygamer.gg/en/Productivity",
+    "created_on": "August 23, 2023 8:37 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Productivity HealthyGamer Wiki 949bea292c964c1bb638233e6426842c.md",
+    "category": "Work",
+    "tags": [
+      "conscientiousness",
+      "focus",
+      "productivity"
+    ],
+    "summary": "Selflessness builds conscientiousness, improves focus."
+  },
+  {
+    "title": "Azure Mind Map",
+    "url": "",
+    "created_on": "June 5, 2023 4:07 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Azure Mind Map 1d4358d071ef4ba099603adc54cd9c4c.md",
+    "category": "work",
+    "tags": [
+      "azure",
+      "mindmap",
+      "diagram"
+    ],
+    "summary": "Azure mind map diagram image."
+  },
+  {
+    "title": "12ft | Selling OTM Covered Calls Systematically: A 30-Year Backtest | Seeking Alpha",
+    "url": "https://12ft.io/proxy?q=https://seekingalpha.com/article/4353418-selling-otm-covered-calls-systematically-30-year-backtest",
+    "created_on": "November 1, 2022 8:59 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/12ft Selling OTM Covered Calls Systematically A 30 02eb1faec3084eaa898b770804cd47ea.md",
+    "category": "Wealth",
+    "tags": [
+      "options",
+      "investing",
+      "strategy"
+    ],
+    "summary": "Optimize covered call selling strategy."
+  },
+  {
+    "title": "Vipassana meditation newsletter ",
+    "url": "",
+    "created_on": "March 8, 2023 4:45 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Vipassana meditation newsletter 4bb0b0e498374785935b59eee8834c4b.md",
+    "category": "Health",
+    "tags": [
+      "meditation",
+      "mind",
+      "improvement"
+    ],
+    "summary": "Newsletter covers meditation, mind, self-improvement."
+  },
+  {
+    "title": "Arnold full workout",
+    "url": "https://cdn.shopify.com/s/files/1/0831/3680/7208/files/Arnold_Workout_Guide_2024.pdf?v=1703785356",
+    "created_on": "January 1, 2024 6:25 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Arnold full workout c3ed2c0eaa464c109113c6c59f124395.md",
+    "category": "Health",
+    "tags": [
+      "workout",
+      "fitness",
+      "muscle"
+    ],
+    "summary": "Arnold's muscle building workout guide."
+  },
+  {
+    "title": "Two Years Without Health Insurance (and What I\u2019m Doing Now) | Mr. Money Mustache",
+    "url": "https://www.mrmoneymustache.com/2020/11/09/direct-primary-care/",
+    "created_on": "February 27, 2023 8:44 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Two Years Without Health Insurance (and What I\u2019m D 7214b434fafc49d1a9b31de64dac658b.md",
+    "category": "Health",
+    "tags": [
+      "health",
+      "insurance",
+      "dpc"
+    ],
+    "summary": "Self-insured, discovers Direct Primary Care."
+  },
+  {
+    "title": "What I Plan to Do When the Market Crashes | The Motley Fool",
+    "url": "https://www.fool.com/investing/general/2013/08/19/what-i-plan-to-do-when-the-market-crashes.aspx",
+    "created_on": "August 15, 2021 5:01 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/What I Plan to Do When the Market Crashes The Motl b17ead9b91004342ae5438a4093d610f.md",
+    "category": "Wealth",
+    "tags": [
+      "investing",
+      "market",
+      "strategy"
+    ],
+    "summary": "Plan for market crashes strategically."
+  },
+  {
+    "title": "Football Players Tracking | YOLOv5 + ByteTRACK | Google Colab | step-by-step Tutorial - YouTube",
+    "url": "https://www.youtube.com/watch?v=QCG8QMhga9k",
+    "created_on": "September 8, 2023 4:17 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Football Players Tracking YOLOv5 + ByteTRACK Googl 5265f692ce1f4878941f686a990f6c21.md",
+    "category": "Work",
+    "tags": [
+      "future",
+      "work",
+      "change"
+    ],
+    "summary": "Exploring future work environment changes."
+  },
+  {
+    "title": "Indian Functional Training | Indian Strength Training | Tagda Raho",
+    "url": "https://www.tagdaraho.in/",
+    "created_on": "December 4, 2023 8:45 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Indian Functional Training Indian Strength Trainin 7118a36eb7f1405c8ee93e47757b613e.md",
+    "category": "Health",
+    "tags": [
+      "fitness",
+      "workout",
+      "investment"
+    ],
+    "summary": "Dhoni invests in fitness startup."
+  },
+  {
+    "title": "\"How to Guarantee a Life of Misery\" | James Clear",
+    "url": "https://jamesclear.com/great-speeches/how-to-guarantee-a-life-of-misery-by-charlie-munger",
+    "created_on": "August 1, 2021 12:28 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/How to Guarantee a Life of Misery James Clear 7557c79abb2d4be492d0faab9c9f42a9.md",
+    "category": "Health",
+    "tags": [
+      "misery",
+      "habits",
+      "wisdom"
+    ],
+    "summary": "Munger's guide to guaranteed misery."
+  },
+  {
+    "title": "Steve Jobs: The Lost Interview from 1995 (2012) - YouTube",
+    "url": "https://www.youtube.com/watch?v=aJzmlohbY60",
+    "created_on": "March 23, 2022 9:45 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Steve Jobs The Lost Interview from 1995 (2012) - Y 792c33ad22c84e279b9fafe98e473845.md",
+    "category": "Work",
+    "tags": [
+      "video",
+      "youtube",
+      "miscellaneous"
+    ],
+    "summary": "Miscellaneous YouTube video content provided."
+  },
+  {
+    "title": "Voice Chat to Slides: My New AI-Powered Workflow - S Anand",
+    "url": "https://www.s-anand.net/blog/voice-chat-to-slides-my-new-ai-powered-workflow/",
+    "created_on": "March 31, 2025 10:45 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Voice Chat to Slides My New AI-Powered Workflow -  1c745e69b16a81fb9a03f7c5f5c11e01.md",
+    "category": "Work",
+    "tags": [
+      "workflow",
+      "llm",
+      "productivity"
+    ],
+    "summary": "New workflow for LLM-powered presentations."
+  },
+  {
+    "title": "cloudnloud/interview-questions",
+    "url": "https://github.com/cloudnloud/interview-questions",
+    "created_on": "April 13, 2022 1:40 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/cloudnloud interview-questions 2abc526d486e46349f664098943d4b57.md",
+    "category": "Work",
+    "tags": [
+      "interview",
+      "technical",
+      "devops"
+    ],
+    "summary": "Popular technical interview question guide."
+  },
+  {
+    "title": "networking-101-gcp-sheet/network101gcp.pdf at main \u00b7 jesuispy/networking-101-gcp-sheet \u00b7 GitHub",
+    "url": "https://github.com/jesuispy/networking-101-gcp-sheet/blob/main/pdf/network101gcp.pdf",
+    "created_on": "December 30, 2022 8:16 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/networking-101-gcp-sheet network101gcp pdf at main 5e8c21a53b5c4d72bbbe9c274de666b4.md",
+    "category": "Work",
+    "tags": [
+      "gcp",
+      "networking",
+      "tech"
+    ],
+    "summary": "Networking 101 on Google Cloud."
+  },
+  {
+    "title": "Creativity - Scott Adams Says",
+    "url": "https://www.scottadamssays.com/creativity/",
+    "created_on": "September 20, 2022 8:09 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Creativity - Scott Adams Says abd8ffd6105e48b58bcc094c5862c31a.md",
+    "category": "Work",
+    "tags": [
+      "creativity",
+      "boredom",
+      "innovation"
+    ],
+    "summary": "Boredom fuels creativity, innovation declines."
+  },
+  {
+    "title": "GitHub - microsoft/generative-ai-for-beginners: 21 Lessons, Get Started Building with Generative AI \ud83d\udd17 https://microsoft.github.io/generative-ai-for-beginners/",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "created_on": "January 25, 2025 7:46 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/GitHub - microsoft generative-ai-for-beginners 21  18645e69b16a81ddb77dfdc7e25622ac.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "course",
+      "programming"
+    ],
+    "summary": "Learn Generative AI application building."
+  },
+  {
+    "title": "One-pointed Mind is Joy | The Art of Living",
+    "url": "https://www.artofliving.org/us-en/yoga/patanjali-yogasutra/knowledge-sheet-27",
+    "created_on": "May 28, 2023 9:56 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/One-pointed Mind is Joy The Art of Living 0147e749fc2d4359a99cb45688ebdb37.md",
+    "category": "Health",
+    "tags": [
+      "yoga",
+      "mind",
+      "meditation"
+    ],
+    "summary": "One-pointed mind brings peace, joy."
+  },
+  {
+    "title": "Scott Galloway mid 30s advice",
+    "url": "",
+    "created_on": "March 23, 2023 10:37 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Scott Galloway mid 30s advice 372ea8758020490aa89d488d81bacd68.md",
+    "category": "Health",
+    "tags": [
+      "mind",
+      "improvement",
+      "self"
+    ],
+    "summary": "Mind improvement for personal growth."
+  },
+  {
+    "title": "GitHub - github/spec-kit: \ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
+    "url": "https://github.com/github/spec-kit?tab=readme-ov-file#-detailed-process",
+    "created_on": "September 12, 2025 6:21 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/GitHub - github spec-kit \ud83d\udcab Toolkit to help you get 26c45e69b16a813da3e3e46c59741999.md",
+    "category": "Work",
+    "tags": [
+      "software",
+      "development",
+      "ai"
+    ],
+    "summary": "Spec-driven development builds quality software."
+  },
+  {
+    "title": "Complete Guide to Polarized Training with Dr. Stephen Seiler",
+    "url": "https://www.fasttalklabs.com/pathways/polarized-training/",
+    "created_on": "September 3, 2023 8:04 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Complete Guide to Polarized Training with Dr Steph 52422c0906cb45689e5fbccfb7a8f523.md",
+    "category": "Health",
+    "tags": [
+      "training",
+      "endurance",
+      "fitness"
+    ],
+    "summary": "Polarized training maximizes endurance athlete performance."
+  },
+  {
+    "title": "gemini-samples/examples/gemini-mcp-example.ipynb at main \u00b7 philschmid/gemini-samples",
+    "url": "https://github.com/philschmid/gemini-samples/blob/main/examples/gemini-mcp-example.ipynb",
+    "created_on": "March 30, 2025 8:49 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/gemini-samples examples gemini-mcp-example ipynb a 1c645e69b16a811cab47ded0e5e8d6ff.md",
+    "category": "Work",
+    "tags": [
+      "code",
+      "ai",
+      "samples"
+    ],
+    "summary": "Gemini AI model code examples."
+  },
+  {
+    "title": "The Safal Niveshak Post | Subscription Confirmed",
+    "url": "https://www.safalniveshak.com/the-safal-niveshak-post-subscription-confirmed/",
+    "created_on": "July 26, 2021 5:25 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/The Safal Niveshak Post Subscription Confirmed 8d61d1fcb0b14ddebca875d3609542b8.md",
+    "category": "Wealth",
+    "tags": [
+      "mind",
+      "money",
+      "self-improvement"
+    ],
+    "summary": "Improve mind for financial growth."
+  },
+  {
+    "title": "Write SQL with natural language using VerteX AI and BigQuery [solution].ipynb - Colaboratory",
+    "url": "https://colab.research.google.com/drive/1vL8QYCj42uQrMRkCbCvGOemQgmcnygqj?usp=sharing#scrollTo=Ti1xFJdMwyh5",
+    "created_on": "December 8, 2023 8:16 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Write SQL with natural language using Vertex AI an 97d7937b5d874087acb30235fe0a518e.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "sql",
+      "data"
+    ],
+    "summary": "AI generates SQL from language."
+  },
+  {
+    "title": "Do you need an aero road bike? | The Pro's Closet",
+    "url": "https://www.theproscloset.com/blogs/news/do-you-need-an-aero-road-bike",
+    "created_on": "May 20, 2021 2:22 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Do you need an aero road bike The Pro's Closet 088aef3c1039448c919d623021b9ddf3.md",
+    "category": "Health",
+    "tags": [
+      "aero",
+      "bike",
+      "speed"
+    ],
+    "summary": "Aero bikes make all riders faster."
+  },
+  {
+    "title": "Psychology of Human Misjudgment (Transcript) by Charlie Munger",
+    "url": "https://fs.blog/great-talks/psychology-human-misjudgment/",
+    "created_on": "August 1, 2021 4:45 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Psychology of Human Misjudgment (Transcript) by Ch 7fee190aa3f542a9a7a840d26e051464.md",
+    "category": "Wealth",
+    "tags": [
+      "psychology",
+      "judgment",
+      "finance"
+    ],
+    "summary": "Charlie Munger's psychology of misjudgment."
+  },
+  {
+    "title": "Tool/function calling | \ud83e\udd9c\ufe0f\ud83d\udd17 LangChain",
+    "url": "https://python.langchain.com/docs/modules/model_io/chat/function_calling/",
+    "created_on": "April 14, 2024 8:58 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/LangChain Chat with Custom Tools, Functions and Me 78fe1ecf4b324e47b3eed6ef35a9383e.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "langchain",
+      "development"
+    ],
+    "summary": "LangChain chat: tools, functions, memory."
+  },
+  {
+    "title": "Too much efficiency makes everything worse: overfitting and the strong version of Goodhart\u2019s law | Jascha\u2019s blog",
+    "url": "http://sohl-dickstein.github.io/2022/11/06/strong-Goodhart.html",
+    "created_on": "April 7, 2025 7:45 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Too much efficiency makes everything worse overfit 1ce45e69b16a819dab9acb8529b3e939.md",
+    "category": "Work",
+    "tags": [
+      "goodhart",
+      "overfitting",
+      "optimization"
+    ],
+    "summary": "Efficiency, proxy targets worsen outcomes."
+  },
+  {
+    "title": "Introducing AzAPI provider and aztfy previews",
+    "url": "https://techcommunity.microsoft.com/t5/azure-tools-blog/announcing-azure-terrafy-and-azapi-terraform-provider-previews/ba-p/3270937",
+    "created_on": "May 4, 2022 6:57 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Introducing AzAPI provider and aztfy previews 870afa0b62354bda8c7affd61abf7999.md",
+    "category": "Work",
+    "tags": [
+      "azure",
+      "terraform",
+      "infrastructure"
+    ],
+    "summary": "New tools streamline Azure Terraform."
+  },
+  {
+    "title": "Dukkha is Suffering-plus-plus | Buddhism.net",
+    "url": "https://buddhism.net/posts/buddhism-for-all/b302-dukkha-is-suffering-plus-plus/",
+    "created_on": "April 21, 2024 7:30 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Dukkha is Suffering-plus-plus Buddhism net ee05b833ad004509af036df3c3282ddb.md",
+    "category": "Health",
+    "tags": [
+      "buddhism",
+      "suffering",
+      "impermanence"
+    ],
+    "summary": "Dukkha: universal suffering, life's unsatisfactoriness."
+  },
+  {
+    "title": "Inflation & Dividend-Adjusted Stock Charts | Total Real Returns",
+    "url": "https://totalrealreturns.com/#why",
+    "created_on": "April 15, 2024 7:10 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Inflation & Dividend-Adjusted Stock Charts Total R 8517bb472b6846c0a1a083fb8414bbc0.md",
+    "category": "Wealth",
+    "tags": [
+      "investing",
+      "returns",
+      "inflation"
+    ],
+    "summary": "Real returns demonstrate investment purchasing power."
+  },
+  {
+    "title": "Byte byte go system design pdf",
+    "url": "https://bytebyte-go.s3.amazonaws.com/ByteByteGo_LinkedIn_PDF.pdf",
+    "created_on": "March 20, 2023 3:42 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Byte byte go system design pdf 9b13296a68a9416a8bd072759284b03c.md",
+    "category": "Work",
+    "tags": [
+      "tech",
+      "system",
+      "design"
+    ],
+    "summary": "Technical system design PDF resource."
+  },
+  {
+    "title": "Integrating BigQuery with Anthropic\u2019s Claude | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/products/data-analytics/integrating-bigquery-with-anthropics-claude",
+    "created_on": "September 4, 2024 6:18 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Integrating BigQuery with Anthropic\u2019s Claude Googl 54fbd3ff5260440188289a2fd352a79b.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "data",
+      "analytics"
+    ],
+    "summary": "Claude AI powers BigQuery analytics."
+  },
+  {
+    "title": "GitHub - mlabonne/llm-course: Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "url": "https://github.com/mlabonne/llm-course",
+    "created_on": "May 12, 2025 3:24 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/GitHub - mlabonne llm-course Course to get into La 1f145e69b16a81829106d81c8a3701be.md",
+    "category": "Work",
+    "tags": [
+      "llm",
+      "engineering",
+      "course"
+    ],
+    "summary": "Mastering LLM fundamentals and engineering."
+  },
+  {
+    "title": "g-emarco/advanced-rag",
+    "url": "https://github.com/g-emarco/advanced-rag",
+    "created_on": "December 13, 2023 6:51 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/g-emarco advanced-rag 0ddb3a2688d84496b0b5f40aa4d4b5e6.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "cloud",
+      "deploy"
+    ],
+    "summary": "Advanced RAG application deployment guide."
+  },
+  {
+    "title": "Fundamental Investor: My Experience with Panchakarma & Ayurveda",
+    "url": "http://www.fundamental-investor.com/2022/05/my-experience-with-panchakarma-ayurveda.html",
+    "created_on": "March 7, 2023 12:12 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Fundamental Investor My Experience with Panchakarm 4ae3198579b842279cd1975c4f7f4ef1.md",
+    "category": "Health",
+    "tags": [
+      "health",
+      "ayurveda",
+      "wellness"
+    ],
+    "summary": "Prioritizing health through holistic Ayurveda."
+  },
+  {
+    "title": "Brian Feroldi Recommended Resources - Google Sheets",
+    "url": "https://docs.google.com/spreadsheets/d/1ylxLyo_vOb60RYe_x96pH4fLoZH3U1SET2UQuBjEYb8/edit?pli=1#gid=1841532980",
+    "created_on": "August 15, 2023 11:28 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Brian Feroldi Recommended Resources - Google Sheet 87bc133fda084e51afa9b48d1e0e6aff.md",
+    "category": "Health",
+    "tags": [
+      "disease",
+      "mortality",
+      "burden"
+    ],
+    "summary": "Global disease burden data analysis."
+  },
+  {
+    "title": "Pmarchive \u00b7 Pmarca Guide to Career Planning: Introduction",
+    "url": "https://fictivekin.github.io/pmarchive-jekyll//guide_to_career_planning_part0.html",
+    "created_on": "March 2, 2022 6:07 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Pmarchive \u00b7 Pmarca Guide to Career Planning Introd f26962d1fef74ed89ccf01d939eb1807.md",
+    "category": "Work",
+    "tags": [
+      "career",
+      "advice",
+      "planning"
+    ],
+    "summary": "Career planning advice for professionals."
+  },
+  {
+    "title": "LangChain Tutorial in Python - Crash Course - Python Engineer",
+    "url": "https://www.python-engineer.com/posts/langchain-crash-course/",
+    "created_on": "September 7, 2023 5:50 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/LangChain Tutorial in Python - Crash Course - Pyth c81e658641dc4fc78126c5fc5df4e636.md",
+    "category": "Work",
+    "tags": [
+      "langchain",
+      "programming",
+      "llm"
+    ],
+    "summary": "LangChain tutorial for LLM development."
+  },
+  {
+    "title": "Happiness Engineering - Scott Adams Says",
+    "url": "https://www.scottadamssays.com/happiness-engineering/",
+    "created_on": "September 20, 2022 8:05 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Happiness Engineering - Scott Adams Says 87c7fa8e75114fb79102f21dcfdc04ec.md",
+    "category": "Health",
+    "tags": [
+      "happiness",
+      "wellbeing",
+      "selfimprovement"
+    ],
+    "summary": "Engineer personal happiness through daily habits."
+  },
+  {
+    "title": "Collections - GitHubTraining | Microsoft Docs",
+    "url": "https://docs.microsoft.com/en-us/users/githubtraining/collections/mom7u1gzjdxw03",
+    "created_on": "September 10, 2022 5:37 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Collections - GitHubTraining Microsoft Docs 4efe963c6b274f9ea4581eb88d43f3e0.md",
+    "category": "Work",
+    "tags": [
+      "azure",
+      "technology",
+      "cloud"
+    ],
+    "summary": "Topics cover Azure cloud technology."
+  },
+  {
+    "title": "One thing pdf worksheet",
+    "url": "",
+    "created_on": "May 4, 2023 4:10 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/One thing pdf worksheet 0b8573e62b2f4b9382b3a20a29d52a6f.md",
+    "category": "Work",
+    "tags": [
+      "goal",
+      "plan",
+      "future"
+    ],
+    "summary": "Define two-year objectives, start now."
+  },
+  {
+    "title": "Buddhism is Seriously Cool With Science | Buddhism.net",
+    "url": "https://buddhism.net/posts/buddhism-for-all/b103-buddhism-is-seriously-cool-with-science/",
+    "created_on": "April 20, 2024 8:23 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Buddhism is Seriously Cool With Science Buddhism n 94bc9c73e47a477f9b535e25269c9049.md",
+    "category": "Health",
+    "tags": [
+      "buddhism",
+      "science",
+      "skepticism"
+    ],
+    "summary": "Buddhism's scientific spirit and verification."
+  },
+  {
+    "title": "Gemini-Chatbot-Interface-with-Streamlit/app_chat.py at main \u00b7 ilhansevval/Gemini-Chatbot-Interface-with-Streamlit",
+    "url": "https://github.com/ilhansevval/Gemini-Chatbot-Interface-with-Streamlit/blob/main/app_chat.py",
+    "created_on": "January 13, 2024 5:23 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Gemini-Chatbot-Interface-with-Streamlit app_chat p d9c8a584381742e2b62b9ff451fd5810.md",
+    "category": "Work",
+    "tags": [
+      "chatbot",
+      "streamlit",
+      "gemini"
+    ],
+    "summary": "Build Gemini chatbot using Streamlit."
+  },
+  {
+    "title": "How well do you know your autonomic nervous system?",
+    "url": "https://www.stretch-letter.com/p/well-know-autonomic-nervous-system",
+    "created_on": "April 24, 2024 5:32 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/How well do you know your autonomic nervous system b8967d1b1c14461fb37f99dd60bade1c.md",
+    "category": "Health",
+    "tags": [
+      "stress",
+      "nervous",
+      "calm"
+    ],
+    "summary": "Physiologically manage stress, find calm."
+  },
+  {
+    "title": "Jon Brosio on Twitter: \"Master psychology and you can print money at will. Sadly, most people don't know how or where to start. Here are 14 documentaries that will teach you more about psychology than a four-year degree:\" / Twitter",
+    "url": "https://mobile.twitter.com/jonbrosio/status/1550118413229367296",
+    "created_on": "July 22, 2022 7:05 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Jon Brosio on Twitter Master psychology and you ca b3554be15f71439798f91b362dd0f7d0.md",
+    "category": "Health",
+    "tags": [
+      "mind",
+      "growth",
+      "personal"
+    ],
+    "summary": "Cultivate mind for self-improvement."
+  },
+  {
+    "title": "Free course - Hybrid Calisthenics",
+    "url": "https://www.hybridcalisthenics.com/wall-pushups",
+    "created_on": "May 16, 2022 1:11 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Free course - Hybrid Calisthenics 7b29f80d7c4d43f2922b35da13c0ca29.md",
+    "category": "Health",
+    "tags": [
+      "exercise",
+      "fitness",
+      "form"
+    ],
+    "summary": "Wall pushups build healthy movement."
+  },
+  {
+    "title": "What is Digital Dementia and How to Overcome It | Amen Clinics Amen Clinics",
+    "url": "https://www.amenclinics.com/blog/what-is-digital-dementia-and-how-to-overcome-it/#:~:text=Simply%20put%2C%20digital%20dementia%20describes,span%20that%20define%20digital%20dementia.",
+    "created_on": "July 30, 2025 5:42 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/What is Digital Dementia and How to Overcome It Am 24045e69b16a8112a22fd8495fe67640.md",
+    "category": "Health",
+    "tags": [
+      "health",
+      "brain",
+      "screens"
+    ],
+    "summary": "Digital overuse harms brain, memory, cognition."
+  },
+  {
+    "title": "Acetylcholine: the chemical of focus & precision",
+    "url": "https://www.stretch-letter.com/p/acetylcholine-the-chemical-of-focus-precision",
+    "created_on": "May 23, 2025 12:45 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Acetylcholine the chemical of focus & precision 1fc45e69b16a8150b8d5c0c3239524bf.md",
+    "category": "Health",
+    "tags": [
+      "focus",
+      "brain",
+      "learning"
+    ],
+    "summary": "Acetylcholine boosts focus, learning, memory."
+  },
+  {
+    "title": "Building a AI Podcast Generator Inspired by Google\u2019s NotebookLM and Illuminate | by Sascha Heyer | Google Cloud - Community | Medium",
+    "url": "https://medium.com/google-cloud/building-a-dynamic-podcast-generator-inspired-by-googles-notebooklm-and-illuminate-e585cfcd0af1",
+    "created_on": "March 2, 2025 9:45 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Building a AI Podcast Generator Inspired by Google 1aa45e69b16a8195a817eea45c38c99b.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "podcast",
+      "development"
+    ],
+    "summary": "Building AI podcast generator technology"
+  },
+  {
+    "title": "** Must read **hackingthemarkets/tradekit: a collection of open source server components and Python libraries for financial data projects and automated trading",
+    "url": "https://github.com/hackingthemarkets/tradekit",
+    "created_on": "December 23, 2021 3:10 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Must read hackingthemarkets tradekit a collection  0b41bed07a704f2a991174d1a4672dba.md",
+    "category": "Wealth",
+    "tags": [
+      "tradekit",
+      "trading",
+      "python"
+    ],
+    "summary": "Build Python financial market applications."
+  },
+  {
+    "title": "Tod holding multi tenant saas solutions AWS",
+    "url": "https://m.youtube.com/watch?v=rqXDSh0YZdk",
+    "created_on": "February 23, 2023 1:36 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Tod holding multi tenant saas solutions AWS 2f7b06d63e444dcfa78cae2e1c6bd8e3.md",
+    "category": "Work",
+    "tags": [
+      "azure",
+      "technology",
+      "cloud"
+    ],
+    "summary": "YouTube video on Azure technology."
+  },
+  {
+    "title": "How to Get More Time \u2013 Of Dollars And Data",
+    "url": "https://ofdollarsanddata.com/how-to-get-more-time/",
+    "created_on": "September 23, 2022 9:09 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/How to Get More Time \u2013 Of Dollars And Data 0085833dea2e427083e9267244ce334e.md",
+    "category": "Health",
+    "tags": [
+      "exercise",
+      "longevity",
+      "fitness"
+    ],
+    "summary": "Exercise for health, wealth, longevity."
+  },
+  {
+    "title": "GitHub - GoogleCloudPlatform/Open_Data_QnA: The Open Data QnA python library enables you to chat with your databases by leveraging LLM Agents on Google Cloud. Open Data QnA enables a conversational approach to interacting with your data.",
+    "url": "https://github.com/GoogleCloudPlatform/Open_Data_QnA?trk=feed_main-feed-card_feed-article-content",
+    "created_on": "September 18, 2024 9:00 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/GitHub - GoogleCloudPlatform Open_Data_QnA The Ope 10545e69b16a811f88d2e6a076a3dbbb.md",
+    "category": "Work",
+    "tags": [
+      "llm",
+      "data",
+      "database"
+    ],
+    "summary": "Natural language querying for SQL databases."
+  },
+  {
+    "title": "Github-Ranking/Top100/Python.md at master \u00b7 EvanLi/Github-Ranking \u00b7 GitHub",
+    "url": "https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Python.md",
+    "created_on": "November 12, 2024 2:59 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Github-Ranking Top100 Python md at master \u00b7 EvanLi 13c45e69b16a8141aa57e5cf3dbdfd9d.md",
+    "category": "Work",
+    "tags": [
+      "github",
+      "python",
+      "ranking"
+    ],
+    "summary": "Ranking top 100 Python projects."
+  },
+  {
+    "title": "Top 7 Financial APIs to Try Out in 2023 | by Nikhil Adithyan | CodeX | Medium",
+    "url": "https://medium.com/codex/top-7-financial-apis-to-try-out-in-2022-4f7b38c1fb8",
+    "created_on": "April 30, 2023 7:38 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Top 7 Financial APIs to Try Out in 2023 by Nikhil  9bee22ad27c846aa9e0ce0a4c04e04a6.md",
+    "category": "Wealth",
+    "tags": [
+      "finance",
+      "api",
+      "tools"
+    ],
+    "summary": "Top financial APIs for 2023."
+  },
+  {
+    "title": "AWESOME resource - GBB Networking Hub",
+    "url": "https://azuregbb.github.io/",
+    "created_on": "June 23, 2022 9:29 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/AWESOME resource - GBB Networking Hub 404cd6d8710649d9b8bc02e78d691b47.md",
+    "category": "Work",
+    "tags": [
+      "azure",
+      "tech",
+      "cloud"
+    ],
+    "summary": "Azure and tech topics selection"
+  },
+  {
+    "title": "ReAct agents vs function calling agents",
+    "url": "https://www.leewayhertz.com/react-agents-vs-function-calling-agents/",
+    "created_on": "November 14, 2024 8:40 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/ReAct agents vs function calling agents 13f45e69b16a81c8b502c8c0f8a21532.md",
+    "category": "Work",
+    "tags": [
+      "llms",
+      "agents",
+      "ai"
+    ],
+    "summary": "LLMs extend capabilities via agents."
+  },
+  {
+    "title": "Waldorf curriculum ",
+    "url": "https://www.novatocharterschool.org/wp-content/uploads/2018/05/The-Kindergarten-Curriculum-Alliance-for-Public-Waldorf-Education.pdf",
+    "created_on": "October 16, 2023 7:06 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Waldorf curriculum 383cdd77b8b34f5eb8a2975cbb8dd811.md",
+    "category": "Health",
+    "tags": [
+      "waldorf",
+      "kindergarten",
+      "curriculum"
+    ],
+    "summary": "Waldorf curriculum fosters child development."
+  },
+  {
+    "title": "Build a Gemini Full-Stack Research Agent with Agent Development Kit | by Debi Cabrera - Googler | Google Cloud - Community | Sep, 2025 | Medium",
+    "url": "https://medium.com/google-cloud/build-a-gemini-full-stack-research-agent-with-agent-development-kit-11192e8e9165",
+    "created_on": "September 17, 2025 6:37 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Build a Gemini Full-Stack Research Agent with Agen 27145e69b16a817c92ddd4bbeb41c6bc.md",
+    "category": "Work",
+    "tags": [
+      "agent",
+      "development",
+      "research"
+    ],
+    "summary": "Build powerful AI research agents."
+  },
+  {
+    "title": "Slow-Reading is the New Deep Learning | by David Handel, MD | Better Humans",
+    "url": "https://betterhumans.pub/slow-reading-is-the-new-deep-learning-452f179c0289",
+    "created_on": "August 12, 2022 3:09 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Slow-Reading is the New Deep Learning by David Han c1c18db2be7d48c1bf7ff2baedbd0b80.md",
+    "category": "Work",
+    "tags": [
+      "reading",
+      "learning",
+      "comprehension"
+    ],
+    "summary": "Slow reading enhances knowledge acquisition."
+  },
+  {
+    "title": "walk and talk | Derek Sivers",
+    "url": "https://sive.rs/wt",
+    "created_on": "December 12, 2023 6:21 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/walk and talk Derek Sivers f6bce8f05c36409e991f9f6b5ebfc6f4.md",
+    "category": "Health",
+    "tags": [
+      "walk",
+      "health",
+      "social"
+    ],
+    "summary": "Walk, talk, health, friendship, growth."
+  },
+  {
+    "title": "Multimodal Live API \u00a0|\u00a0 Generative AI \u00a0|\u00a0 Google Cloud",
+    "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/model-reference/multimodal-live#capabilities",
+    "created_on": "April 3, 2025 7:31 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Multimodal Live API Generative AI Google Cloud 1ca45e69b16a8131964cf74119a74d3e.md",
+    "category": "Work",
+    "tags": [
+      "api",
+      "ai",
+      "multimodal"
+    ],
+    "summary": "Realtime multimodal AI interaction API."
+  },
+  {
+    "title": "Zwift Workout editor",
+    "url": "https://nene.github.io/workout-editor/",
+    "created_on": "September 5, 2024 1:39 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Zwift Workout editor 371655b3b35b4f959079f79c5f2a1731.md",
+    "category": "Health",
+    "tags": [
+      "workout",
+      "fitness",
+      "training"
+    ],
+    "summary": "Detailed indoor cycling workout plan."
+  },
+  {
+    "title": "lastcoolnameleft/architecture-assessment: Questions to ask during an Architecture Design Session",
+    "url": "https://github.com/lastcoolnameleft/architecture-assessment",
+    "created_on": "May 27, 2021 2:31 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/lastcoolnameleft architecture-assessment Questions e5a1d11bed1a49759c0efd6becb81d4a.md",
+    "category": "Work",
+    "tags": [
+      "architecture",
+      "cloud",
+      "devops"
+    ],
+    "summary": "Cloud architecture assessment checklist guide."
+  },
+  {
+    "title": "*very good* Understanding LLMs from scratch using middle school math | by Rohit Patel | Oct, 2024 | Medium",
+    "url": "https://rohit-patel.medium.com/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876",
+    "created_on": "October 20, 2024 7:45 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/very good Understanding LLMs from scratch using mi 12545e69b16a8103829dd4a22588b4ce.md",
+    "category": "Work",
+    "tags": [
+      "llm",
+      "ai",
+      "learning"
+    ],
+    "summary": "Understand LLMs with simple math."
+  },
+  {
+    "title": "B4PT0R/streamlit-mic-recorder: Streamlit component allowing to record audio from the user's microphone and/or perform speech to text easily",
+    "url": "https://github.com/B4PT0R/streamlit-mic-recorder",
+    "created_on": "January 14, 2024 10:17 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/B4PT0R streamlit-mic-recorder Streamlit component  024941fc900b458390d7075fa34d22c7.md",
+    "category": "Work",
+    "tags": [
+      "streamlit",
+      "audio",
+      "speech"
+    ],
+    "summary": "Streamlit component records, transcribes speech."
+  },
+  {
+    "title": "Object-Detection-using-Gemini/Object_Detection_Gemini.ipynb at main \u00b7 NSTiwari/Object-Detection-using-Gemini \u00b7 GitHub",
+    "url": "https://github.com/NSTiwari/Object-Detection-using-Gemini/blob/main/Object_Detection_Gemini.ipynb",
+    "created_on": "January 21, 2025 10:28 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Object-Detection-using-Gemini Object_Detection_Gem 18345e69b16a81858468c4ab59eddbb1.md",
+    "category": "Work",
+    "tags": [
+      "object",
+      "detection",
+      "gemini"
+    ],
+    "summary": "Gemini powers object detection project"
+  },
+  {
+    "title": "How to Be a Better Student by Unlocking the Amazing Power of Your Brain | Better Humans",
+    "url": "https://betterhumans.pub/how-to-unlock-the-amazing-power-of-your-brain-and-become-a-top-student-369e5ba59484",
+    "created_on": "August 12, 2022 3:08 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/How to Be a Better Student by Unlocking the Amazin 38fa648c2add43b997402bcdca2c943d.md",
+    "category": "Work",
+    "tags": [
+      "learn",
+      "study",
+      "improve"
+    ],
+    "summary": "Unlock learning for academic achievement."
+  },
+  {
+    "title": "How to Add a Tool to Your ADK Agent",
+    "url": "https://wietsevenema.eu/blog/2025/adding-a-tool-to-your-adk-agent/",
+    "created_on": "July 14, 2025 1:49 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/How to Add a Tool to Your ADK Agent 23045e69b16a81ad869bc5b08ce09928.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "agent",
+      "tools"
+    ],
+    "summary": "Enhance AI agents with custom tools."
+  },
+  {
+    "title": "GitHub - NirDiamant/GenAI_Agents: This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+    "url": "https://github.com/NirDiamant/GenAI_Agents",
+    "created_on": "March 28, 2025 6:46 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/NirDiamant GenAI_Agents This repository provides t 1ac45e69b16a816f8b82d4c4bb589838.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "development",
+      "agents"
+    ],
+    "summary": "GenAI agent development and community."
+  },
+  {
+    "title": "AKV CSI notes",
+    "url": "https://rakirahman.notion.site/AKV-CSI-notes-769866bbac854efca5419a34f19ad4c4",
+    "created_on": "February 3, 2022 1:56 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/AKV CSI notes da78010125524c70b9dad0d26fdbf3f0.md",
+    "category": "Work",
+    "tags": [
+      "azure",
+      "kubernetes",
+      "secrets"
+    ],
+    "summary": "Azure Kubernetes secret management provider"
+  },
+  {
+    "title": "Learning | HealthyGamer Wiki",
+    "url": "https://wiki.healthygamer.gg/en/Learning",
+    "created_on": "August 23, 2023 8:36 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Learning HealthyGamer Wiki 6f8e2f1aa0a7465f96368632c7e89bf5.md",
+    "category": "Health",
+    "tags": [
+      "learning",
+      "mind",
+      "motivation"
+    ],
+    "summary": "Calm mind improves learning, motivation."
+  },
+  {
+    "title": "Research: Why Breathing Is So Effective at Reducing Stress",
+    "url": "https://hbr.org/2020/09/research-why-breathing-is-so-effective-at-reducing-stress?tpcc=orgsocial_edit&utm_campaign=hbr&utm_medium=social&utm_source=twitter",
+    "created_on": "January 21, 2024 8:44 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Research Why Breathing Is So Effective at Reducing e13f859add614d2580b0c98a5b34852e.md",
+    "category": "Health",
+    "tags": [
+      "breathing",
+      "stress",
+      "calm"
+    ],
+    "summary": "Breathing exercises calm stress, build resilience."
+  },
+  {
+    "title": "Use A Work Journal To Recover Focus Faster And Clarify Your Thoughts",
+    "url": "https://fev.al/posts/work-journal/",
+    "created_on": "June 17, 2025 11:28 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Use A Work Journal To Recover Focus Faster And Cla 21545e69b16a81049174ef7650c0e654.md",
+    "category": "Work",
+    "tags": [
+      "focus",
+      "productivity",
+      "notes"
+    ],
+    "summary": "Notes help maintain work focus."
+  },
+  {
+    "title": "Mta dataset samples Dodge the crowd",
+    "url": "https://new.mta.info/article/dodge-crowd",
+    "created_on": "March 14, 2024 5:56 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Mta dataset samples Dodge the crowd cfa562d6f5e64b3b9f61a1b50e447f25.md",
+    "category": "Work",
+    "tags": [
+      "data",
+      "api",
+      "analysis"
+    ],
+    "summary": "Learn MTA open data analysis."
+  },
+  {
+    "title": "Give your ideas some legs: the positive effect of walking on creative thinking - PubMed",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24749966/",
+    "created_on": "August 17, 2024 11:16 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Give your ideas some legs the positive effect of w bbc9693efbc64e3cbea00bdb4218cd03.md",
+    "category": "Health",
+    "tags": [
+      "walking",
+      "creativity",
+      "cognition"
+    ],
+    "summary": "Walking boosts creative ideation effectively."
+  },
+  {
+    "title": "GitHub - GoogleCloudPlatform/microservices-demo: Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.",
+    "url": "https://github.com/GoogleCloudPlatform/microservices-demo",
+    "created_on": "August 24, 2022 5:51 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/GitHub - GoogleCloudPlatform microservices-demo Sa 88303ba906294c67aa0d8717341dedd0.md",
+    "category": "Work",
+    "tags": [
+      "microservices",
+      "kubernetes",
+      "cloud"
+    ],
+    "summary": "Google Cloud microservices demo application"
+  },
+  {
+    "title": "Frequently Asked Questions about My Writing Process",
+    "url": "https://eugeneyan.com/writing/writing-faq/",
+    "created_on": "April 2, 2025 10:17 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Frequently Asked Questions about My Writing Proces 1c945e69b16a81f99989f6367152f60b.md",
+    "category": "Work",
+    "tags": [
+      "writing",
+      "career",
+      "learning"
+    ],
+    "summary": "Communicate, learn, grow through writing."
+  },
+  {
+    "title": "A Simple 2021 Reboot \u2014 My Short Letter to a Friend Who Wants to Get In Shape - The Blog of Author Tim Ferriss",
+    "url": "https://tim.blog/2021/01/19/2021-reboot-letter-to-a-friend-who-wants-to-get-in-shape/",
+    "created_on": "January 4, 2025 4:50 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/A Simple 2021 Reboot \u2014 My Short Letter to a Friend 17145e69b16a818e802ae974126557fd.md",
+    "category": "Health",
+    "tags": [
+      "diet",
+      "fitness",
+      "exercise"
+    ],
+    "summary": "Rapid diet, exercise, supplement guide."
+  },
+  {
+    "title": "openai_whisper/streamlit_whisper.py at main \u00b7 EnkrateiaLucca/openai_whisper",
+    "url": "https://github.com/EnkrateiaLucca/openai_whisper/blob/main/streamlit_whisper.py",
+    "created_on": "January 14, 2024 10:17 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/openai_whisper streamlit_whisper py at main \u00b7 Enkr 117a3043d42246f88da8717e7fa7afcb.md",
+    "category": "Work",
+    "tags": [
+      "transcription",
+      "python",
+      "streamlit"
+    ],
+    "summary": "Build Streamlit audio transcription app."
+  },
+  {
+    "title": "Professional Cloud Architect Sample Questions",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdvf8Xq6m0kvyIoysdr8WZYCG32WHENStftiHTSdtW4ad2-0w/viewscore?viewscore=AE0zAgBvG5WDE17-xgjc-P4zw3Q_VyjMD3vnn2vrBjY2chcSZkI6WWSvaBfIuJLCBiGB1YI",
+    "created_on": "May 9, 2023 7:21 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Professional Cloud Architect Sample Questions 65ce4b55fd92403aa67a082ce7e71dd2.md",
+    "category": "Work",
+    "tags": [
+      "cloud",
+      "certification",
+      "exam"
+    ],
+    "summary": "Cloud Architect exam sample questions"
+  },
+  {
+    "title": "Gautam Baid\u2019s Bookshelf: Read | Goodreads",
+    "url": "https://www.goodreads.com/review/list/68796404?shelf=read",
+    "created_on": "August 19, 2021 11:06 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Gautam Baid\u2019s Bookshelf Read Goodreads d5632be0e05e430c91ae47ae205a3bfd.md",
+    "category": "Health",
+    "tags": [
+      "mind",
+      "self",
+      "improve"
+    ],
+    "summary": "Mind and self-improvement topics."
+  },
+  {
+    "title": "Anthony DeMello \"Awareness\" video clip Rediscovery of Life - Awareness by Anthony DeMello is a favorite book of Tim Ferriss, who has mentioned it quite often on his extremely popular podcast. (also by Eckhart Tolle and Naval Ravikant) : r/timferriss",
+    "url": "https://www.reddit.com/r/timferriss/comments/1lixjw6/anthony_demello_awareness_video_clip_rediscovery/",
+    "created_on": "July 7, 2025 8:26 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Anthony DeMello Awareness video clip Rediscovery o 22945e69b16a81c7adbfc246e0ca4d58.md",
+    "category": "Health",
+    "tags": [
+      "awareness",
+      "mindset",
+      "ferriss"
+    ],
+    "summary": "Tim Ferriss loves DeMello's Awareness."
+  },
+  {
+    "title": "The Full Story of Large Language Models and RLHF",
+    "url": "https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/",
+    "created_on": "May 9, 2023 3:04 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/The Full Story of Large Language Models and RLHF ff4f05677da54ab090bf9d5214c50d34.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "language",
+      "training"
+    ],
+    "summary": "Large Language Models, RLHF explained."
+  },
+  {
+    "title": "Craving for Sensual Pleasure | Buddhism.net",
+    "url": "https://buddhism.net/posts/buddhism-for-all/b403-craving-for-sensual-pleasure/",
+    "created_on": "April 24, 2024 6:47 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Craving for Sensual Pleasure Buddhism net db027b0c32cd4ba082cf8aa4de53cfeb.md",
+    "category": "Health",
+    "tags": [
+      "craving",
+      "suffering",
+      "buddhism"
+    ],
+    "summary": "Craving for pleasure causes suffering."
+  },
+  {
+    "title": "18 Scenic Bike Trails And Paths In New Jersey",
+    "url": "https://njmom.com/guide/12-scenic-bike-paths-new-jersey/",
+    "created_on": "May 10, 2021 7:51 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/18 Scenic Bike Trails And Paths In New Jersey 51453b9aa6f64533bf35aedaddd5f0c3.md",
+    "category": "Health",
+    "tags": [
+      "bike",
+      "trails",
+      "jersey"
+    ],
+    "summary": "Discover New Jersey's scenic bike trails."
+  },
+  {
+    "title": "The Seven Deadly Sins of Consumer Technology",
+    "url": "https://www.digitalnative.tech/p/the-seven-deadly-sins-of-consumer",
+    "created_on": "October 6, 2023 6:04 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/The Seven Deadly Sins of Consumer Technology a7e96c547e8441ab8e415c0311d549fd.md",
+    "category": "Work",
+    "tags": [
+      "technology",
+      "business",
+      "culture"
+    ],
+    "summary": "Human sins power modern tech companies."
+  },
+  {
+    "title": "PowerShell to C# and back - Classes | Ridicurious.com",
+    "url": "https://ridicurious.com/2020/06/29/powershell-to-csharp-and-back-classes/",
+    "created_on": "May 24, 2021 10:00 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/PowerShell to C# and back - Classes Ridicurious co b473254ed19e4ae7bb6f5e004ccc1ea8.md",
+    "category": "Work",
+    "tags": [
+      "programming",
+      "csharp",
+      "development"
+    ],
+    "summary": "PowerShell users learn C# development."
+  },
+  {
+    "title": "JushBJJ/Mr.-Ranedeer-AI-Tutor: A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.",
+    "url": "https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor",
+    "created_on": "May 2, 2023 4:47 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/JushBJJ Mr -Ranedeer-AI-Tutor A GPT-4 AI Tutor Pro d31affd044694764a0930a43e73f9e53.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "learning",
+      "education"
+    ],
+    "summary": "Personalized AI tutor enhances learning."
+  },
+  {
+    "title": "Getting Real: The smarter, faster, easier way to build a successful web application | Basecamp",
+    "url": "https://basecamp.com/books/getting-real",
+    "created_on": "May 24, 2021 9:34 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Getting Real The smarter, faster, easier way to bu ab0bcf02207543859de016d308f7b58f.md",
+    "category": "Work",
+    "tags": [
+      "software",
+      "business",
+      "strategy"
+    ],
+    "summary": "Build web apps smarter, faster."
+  },
+  {
+    "title": "Zone 2 Training: Part 1\u2014The Basics",
+    "url": "https://simplavida.com/zone-2-series-part-1/",
+    "created_on": "November 9, 2023 10:14 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Zone 2 Training Part 1\u2014The Basics 0a2eaa591ee04b96a1e18d068fc7356e.md",
+    "category": "Health",
+    "tags": [
+      "training",
+      "fitness",
+      "longevity"
+    ],
+    "summary": "Zone 2 training improves health, longevity."
+  },
+  {
+    "title": "Talk with Azure using MCP",
+    "url": "https://github.com/jdubois/azure-cli-mcp",
+    "created_on": "April 4, 2025 6:54 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Talk with Azure using MCP 1cb45e69b16a819cb0b3e8167b96aadb.md",
+    "category": "Work",
+    "tags": [
+      "azure",
+      "cli",
+      "server"
+    ],
+    "summary": "AI enhances Azure CLI management."
+  },
+  {
+    "title": "Aman's AI Journal \u2022 Primers \u2022 Ilya Sutskever's Top 30",
+    "url": "https://aman.ai/primers/ai/top-30-papers/",
+    "created_on": "May 4, 2025 6:29 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Aman's AI Journal \u2022 Primers \u2022 Ilya Sutskever's Top 1e945e69b16a813db0a7d56f0a208b5a.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "machine",
+      "research"
+    ],
+    "summary": "Ilya Sutskever's essential AI papers."
+  },
+  {
+    "title": "Kubetools - A Curated List of Kubernetes Tools | kubetools",
+    "url": "https://collabnix.github.io/kubetools/",
+    "created_on": "June 1, 2021 3:20 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Kubetools - A Curated List of Kubernetes Tools kub a9b884576fac4547aaeef604e39e7ec4.md",
+    "category": "Work",
+    "tags": [
+      "kubernetes",
+      "tools",
+      "devops"
+    ],
+    "summary": "Curated Kubernetes tools for professionals."
+  },
+  {
+    "title": "Giskard - Addressing hallucinations in LLM",
+    "url": "https://colab.research.google.com/github/giskard-ai/giskard/blob/main/docs/getting_started/quickstart/quickstart_llm.ipynb",
+    "created_on": "November 6, 2023 10:00 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Giskard - Addressing hallucinations in LLM c01258f4090e4b6cb3372b729960f43e.md",
+    "category": "Work",
+    "tags": [
+      "testing",
+      "ai",
+      "framework"
+    ],
+    "summary": "Giskard scans LLM model vulnerabilities."
+  },
+  {
+    "title": "birobirobiro/awesome-shadcn-ui: A curated list of awesome things related to shadcn/ui.",
+    "url": "https://github.com/birobirobiro/awesome-shadcn-ui",
+    "created_on": "February 12, 2025 6:40 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/birobirobiro awesome-shadcn-ui A curated list of a 19845e69b16a81629856eefaee4856d0.md",
+    "category": "Work",
+    "tags": [
+      "ui",
+      "components",
+      "development"
+    ],
+    "summary": "Discover awesome shadcn/ui components."
+  },
+  {
+    "title": "Four Thousand Weeks",
+    "url": "https://fev.al/posts/four-thousand-weeks/",
+    "created_on": "June 17, 2025 11:27 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Four Thousand Weeks 21545e69b16a81ca8a44eea4209516b7.md",
+    "category": "Health",
+    "tags": [
+      "finitude",
+      "presence",
+      "meaning"
+    ],
+    "summary": "Finite time demands meaningful presence."
+  },
+  {
+    "title": "GitHub - logspace-ai/langflow: \u26d3\ufe0f Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.",
+    "url": "https://github.com/logspace-ai/langflow",
+    "created_on": "September 9, 2023 4:23 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/GitHub - logspace-ai langflow \u26d3\ufe0f Langflow is a UI  a994e842352e4b019bf410b005661f82.md",
+    "category": "Work",
+    "tags": [
+      "langflow",
+      "software",
+      "development"
+    ],
+    "summary": "Experiment and prototype LangChain pipelines."
+  },
+  {
+    "title": "How I get options data for free",
+    "url": "https://www.freecodecamp.org/news/how-i-get-options-data-for-free-fba22d395cc8/amp/",
+    "created_on": "January 1, 2022 7:48 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/How I get options data for free 478aac92c819412d87c6d0bb7a49fc39.md",
+    "category": "Wealth",
+    "tags": [
+      "python",
+      "scraping",
+      "finance"
+    ],
+    "summary": "Python scrapes financial options data."
+  },
+  {
+    "title": "How to Measure Stock Investment Risk and Returns with Python | by Bee Guan Teo | Python in Plain English",
+    "url": "https://python.plainenglish.io/how-to-measure-stock-investment-risk-and-returns-with-python-5113fa895411",
+    "created_on": "December 31, 2021 7:36 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/How to Measure Stock Investment Risk and Returns w f5d4f81a737043e68fb46892d25cba27.md",
+    "category": "Wealth",
+    "tags": [
+      "investment",
+      "risk",
+      "python"
+    ],
+    "summary": "Python measures stock investment risk."
+  },
+  {
+    "title": "Learn RAG with Langchain \ud83e\udd9c\u26d3\ufe0f\u200d\ud83d\udca5 \u2014 Ragatouille",
+    "url": "https://www.sakunaharinda.xyz/ragatouille-book/intro.html",
+    "created_on": "July 1, 2024 5:08 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/LangChain Introduction and Getting Started Pinecon 71d951b9794a47d2b5ba7808ea5fae33.md",
+    "category": "Work",
+    "tags": [
+      "llm",
+      "langchain",
+      "ai"
+    ],
+    "summary": "Build LLM applications with LangChain."
+  },
+  {
+    "title": "Book recos for 2023",
+    "url": "https://www.linkedin.com/feed/update/activity:7043315379405766657",
+    "created_on": "March 19, 2023 6:05 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Book recos for 2023 e818c104d3c843bba70d24aa47d899dd.md",
+    "category": "Work",
+    "tags": [
+      "work",
+      "career",
+      "technology"
+    ],
+    "summary": "Professional guidance, tech partnerships, hiring"
+  },
+  {
+    "title": "Announcing LangChain RAG Template Powered by Redis | Redis",
+    "url": "https://redis.com/blog/announcing-langchain-rag-template-powered-by-redis/",
+    "created_on": "December 19, 2023 10:50 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Announcing LangChain RAG Template Powered by Redis eb45b1b115b2451ca891cc964355595a.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "development",
+      "templates"
+    ],
+    "summary": "LangChain templates simplify AI deployment."
+  },
+  {
+    "title": "GenAI content",
+    "url": "https://www.linkedin.com/mwlite/feed/update/urn:li:activity:7135483869742456832",
+    "created_on": "November 29, 2023 4:57 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/GenAI content 37ed342406c847dc817b968870e8b529.md",
+    "category": "Work",
+    "tags": [
+      "password",
+      "login",
+      "security"
+    ],
+    "summary": "Reset password, sign in securely."
+  },
+  {
+    "title": "Pitta Dosha | HealthyGamer Wiki",
+    "url": "https://wiki.healthygamer.gg/en/Pitta",
+    "created_on": "August 25, 2023 8:54 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Pitta Dosha HealthyGamer Wiki 519c1f9670ac453288e905cc64090662.md",
+    "category": "Work",
+    "tags": [
+      "pitta",
+      "motivation",
+      "productivity"
+    ],
+    "summary": "Pitta drive, work, avoid burnout."
+  },
+  {
+    "title": "The best book I read this year",
+    "url": "https://every.to/superorganizers/the-best-book-i-read-this-year?sid=27903",
+    "created_on": "November 13, 2023 7:11 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/The best book I read this year c6e86dcc4066463ca61ee1f105d96440.md",
+    "category": "Health",
+    "tags": [
+      "meditation",
+      "mind",
+      "insight"
+    ],
+    "summary": "Meditate, gain insight, reduce suffering."
+  },
+  {
+    "title": "One of the best videos on neural network understanding https://youtube.com/watch?v=aircAruvnKk&si=C1azjLtlLOc8dfdP",
+    "url": "",
+    "created_on": "September 12, 2023 9:13 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/One of the best videos on neural network understan 53f1b91b45a84390b6b6470633c95eb5.md",
+    "category": "Work",
+    "tags": [
+      "productivity",
+      "organization",
+      "workspace"
+    ],
+    "summary": "All-in-one workspace for teams."
+  },
+  {
+    "title": "multimodal rag gemini pro",
+    "url": "https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/retrieval-augmented-generation/intro_multimodal_rag.ipynb",
+    "created_on": "December 16, 2023 7:09 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/multimodal rag gemini pro 9794d0adb81a4bf1922cb8a645a31053.md",
+    "category": "Work",
+    "tags": [
+      "rag",
+      "ai",
+      "multimodal"
+    ],
+    "summary": "Build multimodal RAG document search"
+  },
+  {
+    "title": "Alex Brogan on Twitter: \"10 of the most useful websites on the internet (that you\u2019ve probably never heard of):\" / Twitter",
+    "url": "https://twitter.com/_alexbrogan/status/1540685028308398080",
+    "created_on": "July 10, 2022 8:27 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Alex Brogan on Twitter 10 of the most useful websi c1c0e46cf66c4247a1c19a0ed549ef68.md",
+    "category": "Work",
+    "tags": [
+      "general",
+      "diverse",
+      "broad"
+    ],
+    "summary": "Article topic is general and varied."
+  },
+  {
+    "title": "Supervision - Vision AI",
+    "url": "https://supervision.roboflow.com/latest/#quickstart",
+    "created_on": "June 14, 2024 6:28 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Supervision - Vision AI 29942e04ba3f4fcb9dc285f96be941d7.md",
+    "category": "Work",
+    "tags": [
+      "vision",
+      "software",
+      "tools"
+    ],
+    "summary": "Reusable computer vision software tools."
+  },
+  {
+    "title": "How To Remember Anything Forever-ish",
+    "url": "https://ncase.me/remember/",
+    "created_on": "January 18, 2023 8:01 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/How To Remember Anything Forever-ish 4654dce41dc04d32ac254bf159c55da2.md",
+    "category": "Health",
+    "tags": [
+      "memory",
+      "learning",
+      "repetition"
+    ],
+    "summary": "Learn anything effectively using spaced repetition."
+  },
+  {
+    "title": "good k8s blog Karan Sharma | kubectl wait",
+    "url": "https://mrkaran.dev/posts/kubectl-wait/",
+    "created_on": "March 28, 2022 12:49 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/good k8s blog Karan Sharma kubectl wait dc0e01be9dbc412fa3b09943273ab519.md",
+    "category": "Work",
+    "tags": [
+      "kubernetes",
+      "pipeline",
+      "automation"
+    ],
+    "summary": "Kubectl wait improves CI/CD."
+  },
+  {
+    "title": "Kusto Detective Agency",
+    "url": "https://detective.kusto.io/inbox",
+    "created_on": "November 7, 2022 7:11 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Kusto Detective Agency bab81bf7d77047ebbe3bae2833bdf0d9.md",
+    "category": "Work",
+    "tags": [
+      "azure",
+      "tech",
+      "cloud"
+    ],
+    "summary": "Azure and tech-stuff topics covered."
+  },
+  {
+    "title": "A Few Thoughts on Spending Money \u00b7 Collab Fund",
+    "url": "https://collabfund.com/blog/a-few-thoughts-on-spending-money/",
+    "created_on": "February 1, 2024 7:37 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Paying Attention \u00b7 Collab Fund 91174f7fd61c4af09235e43dc6c2a319.md",
+    "category": "Work",
+    "tags": [
+      "focus",
+      "learning",
+      "productivity"
+    ],
+    "summary": "Filter information for lasting knowledge."
+  },
+  {
+    "title": "The Neuroscience of Mindfulness | HuffPost Life",
+    "url": "https://www.huffpost.com/entry/the-neuroscience-of-mindf_b_2908665",
+    "created_on": "January 10, 2024 6:10 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/The Neuroscience of Mindfulness HuffPost Life d4b75fed038d475fa57935610f645ccf.md",
+    "category": "Health",
+    "tags": [
+      "mindfulness",
+      "brain",
+      "meditation"
+    ],
+    "summary": "Neuroscience reveals mindfulness' brain networks."
+  },
+  {
+    "title": "In Praise of Idleness, by Bertrand Russell",
+    "url": "https://harpers.org/archive/1932/10/in-praise-of-idleness/",
+    "created_on": "January 21, 2024 9:06 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/In Praise of Idleness, by Bertrand Russell 63217a9a35e344f4bd746494a5379c49.md",
+    "category": "Work",
+    "tags": [
+      "work",
+      "leisure",
+      "society"
+    ],
+    "summary": "Less work, more societal leisure."
+  },
+  {
+    "title": "My Bear Market Survival Guide - Here\u2019s my playbook for surviving a bear market:\nI try to be healthy. Eat right. Exercise. Get enough sleep at night.\nThis stuff might not feel important but it helps",
+    "url": "https://awealthofcommonsense.com/2022/05/my-bear-market-survival-guide/",
+    "created_on": "May 20, 2022 9:38 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/My Bear Market Survival Guide - Here\u2019s my playbook 930e607821854269845e8b973627c122.md",
+    "category": "Wealth",
+    "tags": [
+      "investing",
+      "market",
+      "stress"
+    ],
+    "summary": "Survive bear market with strategies."
+  },
+  {
+    "title": "Terraform Visual",
+    "url": "https://hieven.github.io/",
+    "created_on": "September 26, 2022 11:27 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Terraform Visual 08f5bbf704324b858ca425a7171b90f5.md",
+    "category": "Work",
+    "tags": [
+      "tech",
+      "digital",
+      "industry"
+    ],
+    "summary": "Article explores various technology topics."
+  },
+  {
+    "title": "Eddie villalba- Suggested Readings, Links, Podcasts and other Sundry Items for the Burgeoning Cloud Architect | Evillgenius75 Gitpage",
+    "url": "https://evillgenius75.github.io/posts/04252022-archibooks/",
+    "created_on": "April 26, 2022 11:00 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Eddie villalba- Suggested Readings, Links, Podcast 130430cb9bdf48c8946109660082a0b2.md",
+    "category": "Work",
+    "tags": [
+      "azure",
+      "kubernetes",
+      "tech"
+    ],
+    "summary": "Azure Kubernetes cloud technology topics"
+  },
+  {
+    "title": "Digital hygiene | karpathy",
+    "url": "https://karpathy.bearblog.dev/digital-hygiene/",
+    "created_on": "April 7, 2025 7:49 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Digital hygiene karpathy 1ce45e69b16a817898d4ff43468f10f5.md",
+    "category": "Wealth",
+    "tags": [
+      "security",
+      "privacy",
+      "digital"
+    ],
+    "summary": "Essential digital hygiene for online safety."
+  },
+  {
+    "title": "Transformer Explainer: LLM Transformer Model Visually Explained",
+    "url": "https://poloclub.github.io/transformer-explainer/",
+    "created_on": "October 20, 2024 7:51 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Transformer Explainer LLM Transformer Model Visual 12545e69b16a816ca2daddc68cf5f43c.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "technology",
+      "deeplearning"
+    ],
+    "summary": "Transformer architecture powers modern AI."
+  },
+  {
+    "title": "Wondercraft AI",
+    "url": "https://wondercraft.ai/",
+    "created_on": "April 28, 2023 6:36 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Wondercraft AI 1ce0a6c0ed39417b9468dec468c45505.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "content",
+      "technology"
+    ],
+    "summary": "AI powers next-gen content production."
   }
 ]

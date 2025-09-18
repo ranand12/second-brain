@@ -3,7 +3,7 @@ const readingListContainer = document.getElementById('reading-list');
 const filterBar = document.getElementById('filter-bar');
 const activeFilterSpan = document.getElementById('active-filter');
 const clearFilterBtn = document.getElementById('clear-filter-btn');
-
+const searchInput = document.getElementById('search-input');
 
 async function loadReadingList() {
     try {
@@ -12,6 +12,14 @@ async function loadReadingList() {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         allArticles = await response.json();
+
+        // Sort articles by date, newest first
+        allArticles.sort((a, b) => {
+            const dateA = new Date(a.created_on);
+            const dateB = new Date(b.created_on);
+            return dateB - dateA;
+        });
+        
         displayArticles(allArticles);
 
     } catch (error) {
@@ -76,11 +84,28 @@ function displayArticles(articles) {
     });
 }
 
+function performSearch() {
+    const query = searchInput.value.toLowerCase();
+    
+    const filteredArticles = allArticles.filter(item => {
+        const titleMatch = item.title.toLowerCase().includes(query);
+        const summaryMatch = item.summary.toLowerCase().includes(query);
+        const categoryMatch = item.category.toLowerCase().includes(query);
+        const tagsMatch = item.tags.some(tag => tag.toLowerCase().includes(query));
+        return titleMatch || summaryMatch || categoryMatch || tagsMatch;
+    });
+
+    displayArticles(filteredArticles);
+    // Clear any active tag filter when searching
+    filterBar.classList.add('filter-bar-hidden');
+}
+
 function filterByTag(tag) {
     const filteredArticles = allArticles.filter(item => item.tags.includes(tag));
     displayArticles(filteredArticles);
     
-    // Show filter bar
+    // Show filter bar and clear search
+    searchInput.value = '';
     activeFilterSpan.textContent = tag;
     filterBar.classList.remove('filter-bar-hidden');
 }
@@ -88,10 +113,12 @@ function filterByTag(tag) {
 function clearFilter() {
     displayArticles(allArticles);
     filterBar.classList.add('filter-bar-hidden');
+    searchInput.value = '';
 }
 
 // Event Listeners
 clearFilterBtn.addEventListener('click', clearFilter);
+searchInput.addEventListener('input', performSearch);
 
 // Initial Load
 loadReadingList();

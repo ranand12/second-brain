@@ -102,8 +102,24 @@ h1 {
     background-color: #cbd5e0;
 }
 
-.filter-bar {
+.controls-container {
     margin-bottom: 1.5rem;
+}
+
+#search-bar {
+    margin-bottom: 1rem;
+}
+
+#search-input {
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid #e2e8f0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.filter-bar {
     padding: 0.75rem 1rem;
     background-color: #e2e8f0;
     border-radius: 0.5rem;

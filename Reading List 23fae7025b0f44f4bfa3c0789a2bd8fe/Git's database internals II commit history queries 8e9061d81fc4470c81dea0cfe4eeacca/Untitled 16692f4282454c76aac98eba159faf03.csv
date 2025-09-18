@@ -1,0 +1,4 @@
+﻿Command,Without commit-graph,With commit-graph
+git rev-list v5.19,6.94s,0.98s
+git rev-list v5.0..v5.19,2.51s,0.30s
+git merge-base v5.0 v5.19,2.59s,0.24s

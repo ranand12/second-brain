@@ -1,0 +1,15 @@
+# AI resource
+
+Column: https://www.linkedin.com/feed/update/urn:li:activity:7302380629327781888
+Processed: Yes
+created on: March 3, 2025 10:31 PM
+
+[c45fy346jw096z9pbphyyhdz7](AI%20resource%201ac45e69b16a811ca17aed9d3c7b9586/c45fy346jw096z9pbphyyhdz7)
+
+If I only had to choose 5 Github repos to learn AI Engineering, I would choose these: 👇 1. AI Engineer Toolkit by [Break Into Data](https://www.linkedin.com/company/break-into-data?trk=public_post-text). Build your AI projects with the most popular frameworks and tools in the industry. (400 stars) [https://lnkd.in/gxiY-H4m](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgxiY-H4m&urlhash=R0dN&trk=public_post-text) 2. Roadmap to GenAI by [Krish Naik](https://in.linkedin.com/in/naikkrish?trk=public_post-text). Learn fundamental concepts of deep learning and Python. (3k stars) [https://lnkd.in/g9V8bxqC](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg9V8bxqC&urlhash=KwkT&trk=public_post-text) 3. Awesome GenAI Guide by [Aishwarya Naresh Reganti](https://www.linkedin.com/in/areganti?trk=public_post-text). Find research papers and online courses to upskill in GenAI. (11k stars) [https://lnkd.in/g4YiJWTG](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg4YiJWTG&urlhash=hC9u&trk=public_post-text) 4. AI Notes by [Latent Space Podcast](https://www.linkedin.com/company/latent-space-podcast?trk=public_post-text) and Swyx. Find the latest tech articles from notable scientists and engineers. (5k stars) [https://lnkd.in/g3xf-ZCT](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2Fg3xf-ZCT&urlhash=PPj3&trk=public_post-text) 5. AI Agents by [Nir Diamant](https://www.linkedin.com/in/nir-diamant-ai?trk=public_post-text). A comprehensive guide for the development and implementation of agents. (8k stars) - [https://lnkd.in/gdqRF82x](https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flnkd%2Ein%2FgdqRF82x&urlhash=HywR&trk=public_post-text) If you find these helpful... 👍 React ♻️ Share 💬 Comment So more people can learn. [#AIEngineer](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Faiengineer&trk=public_post-text)
+
+[788](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmeri-nova_aiengineer-activity-7302380629327781888-0yRT&trk=public_post_social-actions-reactions)   [44 Comments](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmeri-nova_aiengineer-activity-7302380629327781888-0yRT&trk=public_post_social-actions-comments)
+
+[See more comments](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmeri-nova_aiengineer-activity-7302380629327781888-0yRT&trk=public_post_see-more-comments)
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fposts%2Fmeri-nova_aiengineer-activity-7302380629327781888-0yRT&trk=public_post_feed-cta-banner-cta)

@@ -1,0 +1,16 @@
+# Harvard and Stanford courses
+
+Column: https://www.linkedin.com/feed/update/activity:7055614317005574144
+Processed: No
+created on: April 22, 2023 3:39 PM
+
+Who is going to make the money in generative AI - apps or picks and shovels? Every day, new apps are being spun up to take advantage of the potential "next internet-sized wave" that is generative AI. These apps are betting that the money in generative AI will come from consumers. Amazon is making a totally different bet. Instead of racing to a botched consumer launch like Google Bard, the company has focused on enabling other businesses. Amazon is laser-eyed on the picks and shovels: 1. Amazon Bedrock Bedrock makes several foundational models from Amazon and other companies available via API. What makes it compelling is that it makes it really easy to point to some AWS S3 data, and fine-tune the models for your specific task at hand. This is perfect for companies looking to easily integrate generative in their products 2. Amazon EC2 Trn1n and Inf2 Training generative AI models on AWS' normal EC2 configurations is expensive - hundreds of thousands of dollars. Trn1n delivers up to 50% cost savings. Training these models also takes a lot of time. Inf2 can deliver up to 4x faster speed. These advancements make an expensive, slow task cheaper and faster. 3. Amazon CodeWhisperer CodeWhisperer is an AI toolkit that Amazon released last year. Originally, it was focused on helping developers use Amazon technologies. But this week, it launched support for over 10 languages, including Python, Javascript, and SQL. When I asked a developer what they thought of it, they said, "Good but not as good as Github Copilot." To summarize, Amazon has really focused on enabling developers to spin up their own generative AI, reduce the cost of generative AI, and code using generative AI. It's picks and shovels at every layer. This is a smart approach. Now that we are in the Era of Integrated Generative AI, every company is racing to add generative AI to their app. Amazon is there to assist them. Running generative models is expensive. 10 years from now, it wouldn't surprise me if the developer-focused AI business at Amazon, Microsoft, or Google is making more profit than all of the individual generative AI applications combined. If that's the case, the next question is: which of the cloud providers will developers prefer? Right now, GPT-4 is clearly the best LLM out there. Google Bard doesn't even come close. It appears that GitHub Copilot is also superior to Amazon CodeWhisperer. If it is indeed true and sustainable that OpenAI has the best models, Amazon may never be able to catch up to Microsoft's competing services. It sure will be fun to watch.
+
+- 
+    
+    [](Harvard%20and%20Stanford%20courses%2052b94c3dee2d4ff8867eb470a5f1a9bd/921ynb2z53z33mhm3061qvjag)
+    
+    No alternative text description for this image
+    
+
+To view or add a comment, [sign in](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Faagupta_who-is-going-to-make-the-money-in-generative-activity-7054284641695891456-8kBh&trk=public_post_main-feed-card_feed-cta-banner-cta)

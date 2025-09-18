@@ -1,0 +1,5 @@
+﻿Title,Command,With commit-graph,Without commit-graph
+,git log --graph -n 100 v5.19,0.03s,7.73s
+,git rev-list --topo-order -n 100 v5.19,0.02s,6.88s
+,git rev-list --topo-order -n 100 v5.18..v5.19,0.02s,0.39s
+,git log --graph -n 100 v5.18..v5.19,0.03s,0.43s

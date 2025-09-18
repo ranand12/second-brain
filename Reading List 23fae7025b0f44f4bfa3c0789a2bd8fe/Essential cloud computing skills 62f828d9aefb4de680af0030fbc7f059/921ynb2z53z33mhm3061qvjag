@@ -1,0 +1,7 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <title>56dp</title>
+  <path d="M7,13V31.36L16.23,20.6a1,1,0,0,1,1.41-.08l0.08,0.08L30.2,34l6.27-4.48a1,1,0,0,1,1.29.11L49,40.88V13H7Z" style="fill: #fff"/>
+  <path d="M7,43H46.88l-10-10-6.32,4.52a1,1,0,0,1-1.31-.13L17,24.25,7,36v7Z" style="fill: #acb9c2;opacity: 0.15000000596046448;isolation: isolate"/>
+  <circle cx="39" cy="20" r="4" style="fill: #acb9c2;opacity: 0.45;isolation: isolate"/>
+  <path d="M52,12a2,2,0,0,0-2-2H6a2,2,0,0,0-2,2V44a2,2,0,0,0,2,2H50a2,2,0,0,0,2-2V12ZM7,43V36L17,24.25,29.2,37.34a1,1,0,0,0,1.31.13L36.84,33l10,10H7Zm42-2.12L37.76,29.64a1,1,0,0,0-1.29-.11L30.2,34,17.72,20.57a1,1,0,0,0-1.41-.08l-0.08.08L7,31.36V13H49V40.88Z" style="fill: #acb9c2;opacity: 0.45;isolation: isolate"/>
+</svg>

@@ -1,0 +1,7 @@
+﻿Notebook,Description,Notebook 1,Files
+🧐 https://github.com/mlabonne/llm-autoeval,Automatically evaluate your LLMs using RunPod,,https://github.com/mlabonne/llm-course/raw/main/img/colab.svg
+🥱 LazyMergekit,Easily merge models using MergeKit in one click.,,
+🦎 LazyAxolotl,Fine-tune models in the cloud using Axolotl in one click.,,
+⚡ AutoQuant,"Quantize LLMs in GGUF, GPTQ, EXL2, AWQ, and HQQ formats in one click.",,
+🌳 Model Family Tree,Visualize the family tree of merged models.,,
+🚀 ZeroSpace,Automatically create a Gradio chat interface using a free ZeroGPU.,,

@@ -1,0 +1,1 @@
+# 2. Create a generic/docker-registry secret in Kubernetes cluster

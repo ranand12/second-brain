@@ -1,0 +1,17 @@
+# Cybersecurity resources
+
+Column: https://www.linkedin.com/feed/update/activity:6997255890785505281
+Processed: No
+created on: November 13, 2022 5:54 PM
+topics: tech-stuff
+
+It's difficult to secure technology you don't know. The broader your foundation, the more effective you will be in your cybersecurity career. Here are FREE courses on eight key topics from some of the industry's most credible sources that will make you better at your job, from cyber analyst, to cyber architect, to cyber leader. Introduction to DevSecOps A PhD-led course from Coursera [https://lnkd.in/gKrEa6uE](https://lnkd.in/gKrEa6uE?trk=public_post_share-update_update-text) DevOps, Cloud, and Agile Foundations Another PhD-led course from Coursera [https://lnkd.in/gud_gXCY](https://lnkd.in/gud_gXCY?trk=public_post_share-update_update-text) GRC Approach Managing Cybersecurity Yet another PhD-led course from Coursera! [https://lnkd.in/gmC625A8](https://lnkd.in/gmC625A8?trk=public_post_share-update_update-text) Kubernetes, Cloud, and Linux The 3-course series from EdX (recommended by the Linux Foundation) [https://lnkd.in/g8vzmkT6](https://lnkd.in/g8vzmkT6?trk=public_post_share-update_update-text) -Intro to Kubernetes -Intro to Cloud Technologies -Intro to Linux Python Institute (beginner to advanced series + certs) Python Institute offers FREE training to prepare you for the PCEP, PCAP, PCPP1, and PCPP2 certification exams. Python Essentials 1 (Beginner) [https://lnkd.in/gu79bXqp](https://lnkd.in/gu79bXqp?trk=public_post_share-update_update-text) Python Essentials 2 (Intermediate) [https://lnkd.in/gYUhddqW](https://lnkd.in/gYUhddqW?trk=public_post_share-update_update-text) Python Professional (Advanced) [https://lnkd.in/gqXnQF8Q](https://lnkd.in/gqXnQF8Q?trk=public_post_share-update_update-text)
+
+- 
+    
+    [](Cybersecurity%20resources%20aeae6690833a4fa587bed92b331e3d3f/1668263148236)
+    
+    No alternative text description for this image
+    
+
+Here are free access links to my 4-part SC-100 Microsoft Cybersecurity Architect Expert Cert Prep series Kevin used on his way to clearing the exam. Whether or not you have the depth of experience this exam demands, I designed this series to get you further, faster on your way to exam readiness. 👍🍀🤞[#certifications](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2Fhashtag%2Fcertifications&trk=public_post_share-update_update-text) [#microsoftsecurity](https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Ffeed%2Fhashtag%2Fmicrosoftsecurity&trk=public_post_share-update_update-text) Part 1: Design a Zero Trust Strategy and Architecture [https://lnkd.in/gPTrCEWu](https://lnkd.in/gPTrCEWu?trk=public_post_share-update_update-text) Part 2: Evaluate Governance, Risk, and Compliance (GRC) and Security [https://lnkd.in/gtBiJx5i](https://lnkd.in/gtBiJx5i?trk=public_post_share-update_update-text) Part 3: Design Security for Infrastructure [https://lnkd.in/g8bypz8x](https://lnkd.in/g8bypz8x?trk=public_post_share-update_update-text) Part 4: Design Strategy for Data and Applications [https://lnkd.in/gsn87XGC](https://lnkd.in/gsn87XGC?trk=public_post_share-update_update-text)

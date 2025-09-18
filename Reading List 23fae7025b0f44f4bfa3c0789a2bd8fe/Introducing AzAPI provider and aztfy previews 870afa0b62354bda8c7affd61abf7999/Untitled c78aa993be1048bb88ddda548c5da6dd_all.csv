@@ -1,0 +1,8 @@
+﻿Resource Name,Description
+azapi_resource,"Used to fully manage any Azure (control plane) resource (API) with full CRUD. Example use cases:  
+• New preview service 
+• New feature added to existing service. 
+• Existing feature / service not currently covered "
+azapi_update_resource,"Used to manage resources or parts of resources that do not have full CRUD. Example use cases:  
+• Update new properties on an existing service. 
+• Update pre-created child resource (e.g. DNS SOA record) "

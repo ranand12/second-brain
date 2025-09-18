@@ -1,0 +1,5 @@
+﻿Login to a private container registry (ACR),Authentication
+3. Deploy to the Kubernetes cluster,
+2. Create a generic/docker-registry secret in Kubernetes cluster,
+1. Set the target AKS cluster,Deploy
+Build & push the container image,Build

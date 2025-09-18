@@ -2000,5 +2000,291 @@
       "coding"
     ],
     "summary": "GitHub Python mini-projects contribution guide."
+  },
+  {
+    "title": "Kubernetes Ingress Tutorial: Beginners Series",
+    "url": "https://devopscube.com/kubernetes-ingress-tutorial/",
+    "created_on": "March 20, 2022 4:51 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Kubernetes Ingress Tutorial Beginners Series 5d3b7f49dfb5416eb21ed5573cb6afdd.md",
+    "category": "Work",
+    "tags": [
+      "kubernetes",
+      "ingress",
+      "routing"
+    ],
+    "summary": "Kubernetes Ingress routes cluster traffic."
+  },
+  {
+    "title": "NotebookLM now lets you listen to a conversation about your sources",
+    "url": "https://blog.google/technology/ai/notebooklm-audio-overviews/",
+    "created_on": "September 11, 2024 2:16 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/NotebookLM now lets you listen to a conversation a d5a90e135cff4bdcb6f7031bf42261a7.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "productivity",
+      "learning"
+    ],
+    "summary": "NotebookLM generates audio document summaries."
+  },
+  {
+    "title": "Illustrated introduction to Linux iptables",
+    "url": "https://iximiuz.com/en/posts/laymans-iptables-101/",
+    "created_on": "April 22, 2023 10:39 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Illustrated introduction to Linux iptables e9ee78dc82dd49b6b6c193f3cbb6af2c.md",
+    "category": "Work",
+    "tags": [
+      "networking",
+      "linux",
+      "firewall"
+    ],
+    "summary": "Understand Linux iptables and networking"
+  },
+  {
+    "title": "Ollama setup",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7241338694513627136",
+    "created_on": "September 16, 2024 7:30 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Ollama setup 10345e69b16a818d8c39c96ffc980769.md",
+    "category": "Work",
+    "tags": [
+      "llms",
+      "ollama",
+      "local"
+    ],
+    "summary": "Run LLMs locally with Ollama."
+  },
+  {
+    "title": "adit.io",
+    "url": "https://adit.io/",
+    "created_on": "February 13, 2022 7:49 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/adit io dc9667e88cd84ec1884892b88ee9767c.md",
+    "category": "Work",
+    "tags": [
+      "programming",
+      "mathematics",
+      "learning"
+    ],
+    "summary": "Author's programming and math resources."
+  },
+  {
+    "title": "Crew AI Crash Course (Step by Step) \u00b7 Alejandro AO",
+    "url": "https://alejandro-ao.com/crew-ai-crash-course-step-by-step/#:~:text=Define%20the%20goal%20of%20the%20crew,-%23&text=Remember%20that%2C%20when%20building%20applications,us%20prepare%20for%20a%20meeting.",
+    "created_on": "April 4, 2024 10:14 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Crew AI Crash Course (Step by Step) \u00b7 Alejandro AO 51ca47e68cb5474d809b9320bc595409.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "automation",
+      "productivity"
+    ],
+    "summary": "Automate tasks using AI agents."
+  },
+  {
+    "title": "Building Your Own Twitter Analytics | Den Delimarsky",
+    "url": "https://den.dev/blog/twitter-analytics/",
+    "created_on": "December 30, 2021 6:34 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Building Your Own Twitter Analytics Den Delimarsky 17515555a60440089f3a061d3d2c4c66.md",
+    "category": "Work",
+    "tags": [
+      "twitter",
+      "analytics",
+      "python"
+    ],
+    "summary": "Build simple Twitter data analytics."
+  },
+  {
+    "title": "Artificial Neural Network Fundamentals \u00b7 AFIT Data Science Lab R Programming Guide",
+    "url": "https://afit-r.github.io/ann_fundamentals",
+    "created_on": "September 13, 2023 9:29 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Artificial Neural Network Fundamentals \u00b7 AFIT Data a52687dba15c442f82ed24a77033dfab.md",
+    "category": "Work",
+    "tags": [
+      "machine",
+      "learning",
+      "networks"
+    ],
+    "summary": "Introduction to artificial neural networks."
+  },
+  {
+    "title": "GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "created_on": "May 8, 2021 1:00 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/GitHub - awesome-selfhosted awesome-selfhosted A l 38fc97e33a4749918609c9a02381e602.md",
+    "category": "Work",
+    "tags": [
+      "selfhosted",
+      "software",
+      "tech"
+    ],
+    "summary": "Awesome list of self-hosted software."
+  },
+  {
+    "title": "Tools Simon AI",
+    "url": "https://simonwillison.net/dashboard/tools/",
+    "created_on": "November 12, 2024 7:22 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Tools Simon AI 13d45e69b16a810aadc3dda0ea09748a.md",
+    "category": "Work",
+    "tags": [
+      "tools",
+      "ai",
+      "tech"
+    ],
+    "summary": "Links to Simon Willison's tools"
+  },
+  {
+    "title": "Five Aggregates | Buddhism.net",
+    "url": "https://buddhism.net/posts/buddhism-for-all/b303-five-aggregates/",
+    "created_on": "April 21, 2024 7:31 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Five Aggregates Buddhism net e4448b341f1543628f381831e196d101.md",
+    "category": "Health",
+    "tags": [
+      "buddhism",
+      "philosophy",
+      "mind"
+    ],
+    "summary": "Buddhist aggregates explain self, suffering."
+  },
+  {
+    "title": "really cool ai tools (very helpful) ",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7020911107716362240/",
+    "created_on": "January 17, 2023 12:27 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/really cool ai tools (very helpful) 49c4702696ca43248930f609be2e4156.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "tools",
+      "marketing"
+    ],
+    "summary": "AI tools for professional work growth."
+  },
+  {
+    "title": "Paying Attention \u00b7 Collab Fund",
+    "url": "https://collabfund.com/blog/paying-attention/",
+    "created_on": "June 1, 2023 3:47 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/A Few Thoughts on Spending Money \u00b7 Collab Fund e183195638aa418e8e9df249869969ba.md",
+    "category": "Wealth",
+    "tags": [
+      "money",
+      "spending",
+      "happiness"
+    ],
+    "summary": "Money: life's tool, not status."
+  },
+  {
+    "title": "Confidence | HealthyGamer Wiki",
+    "url": "https://wiki.healthygamer.gg/en/Confidence",
+    "created_on": "August 25, 2023 8:52 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Confidence HealthyGamer Wiki 140d155728ce4ccc857257e7a7cd663c.md",
+    "category": "Health",
+    "tags": [
+      "confidence",
+      "ego",
+      "self-belief"
+    ],
+    "summary": "Build confidence, understand ego, own path."
+  },
+  {
+    "title": "Zone 2 Heart Rate Training For Longevity and Performance",
+    "url": "https://www.howardluksmd.com/zone-2-hr-training-live-longer-less-injury/",
+    "created_on": "September 20, 2022 9:55 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Zone 2 Heart Rate Training For Longevity and Perfo c80c0b1ac0f14e239e00a686f817bfe0.md",
+    "category": "Health",
+    "tags": [
+      "exercise",
+      "longevity",
+      "mitochondria"
+    ],
+    "summary": "Zone 2 training optimizes health, longevity."
+  },
+  {
+    "title": "fastrtc (FastRTC)",
+    "url": "https://huggingface.co/fastrtc",
+    "created_on": "February 27, 2025 5:22 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/fastrtc (FastRTC) 1a745e69b16a81c398cbf51bbcb73618.md",
+    "category": "Work",
+    "tags": [
+      "python",
+      "webrtc",
+      "communication"
+    ],
+    "summary": "Python library for real-time communication."
+  },
+  {
+    "title": "Good blog Private Link and Azure Monitor: what is an AMPLS? \u2013 Cloudtrooper",
+    "url": "https://blog.cloudtrooper.net/2022/03/11/private-link-and-azure-monitor-what-is-an-ampls/",
+    "created_on": "March 21, 2022 7:00 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Good blog Private Link and Azure Monitor what is a 09f97fe6bfaa40b487414fbd9b1dc66e.md",
+    "category": "Work",
+    "tags": [
+      "azure",
+      "networking",
+      "dns"
+    ],
+    "summary": "Azure Private Link Scopes explained."
+  },
+  {
+    "title": "Smash Illustrations \u2014 Free illustrations",
+    "url": "https://freeillustrations.xyz/illustration/smash-illustrations/",
+    "created_on": "May 20, 2021 6:32 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Smash Illustrations \u2014 Free illustrations 8ebee18163964f7c9850d19b4b6d45cd.md",
+    "category": "Work",
+    "tags": [
+      "illustrations",
+      "design",
+      "tools"
+    ],
+    "summary": "Free design illustration tools available."
+  },
+  {
+    "title": "Timing is Everything \u2013 Even with your Food \u2013 Puru The Guru",
+    "url": "https://purutheguru.me/2016/06/15/timing-is-everything-even-with-your-food/",
+    "created_on": "November 10, 2024 8:13 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/High Octane Fuel to 110 \u2013 Puru The Guru 13a45e69b16a8185b25dd6a33e0937a1.md",
+    "category": "Health",
+    "tags": [
+      "nutrition",
+      "diet",
+      "wellness"
+    ],
+    "summary": "Strategic nutrition for long-term health."
+  },
+  {
+    "title": "Generative AI exists because of the transformer",
+    "url": "https://ig.ft.com/generative-ai/?s=03",
+    "created_on": "October 17, 2023 2:41 PM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Generative AI exists because of the transformer 00e4d33203b748f08ceb64c0bded6355.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "language",
+      "automation"
+    ],
+    "summary": "Generative AI changing jobs, industries."
+  },
+  {
+    "title": "MTA NYCT Express Bus Capacity: Beginning 2023 | State of New York",
+    "url": "https://data.ny.gov/Transportation/MTA-NYCT-Express-Bus-Capacity-Beginning-2023/4tpr-3bvc/about_data",
+    "created_on": "January 23, 2024 7:29 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/MTA NYCT Express Bus Capacity Beginning 2023 State 9b8c2eaca64048caba04b15c1233a610.md",
+    "category": "Work",
+    "tags": [
+      "dataset",
+      "transportation",
+      "data"
+    ],
+    "summary": "MTA bus ridership metrics dataset"
+  },
+  {
+    "title": "Tools Make an Agent: From Zero to Assistant with ADK | Google Cloud Blog",
+    "url": "https://cloud.google.com/blog/topics/developers-practitioners/tools-make-an-agent-from-zero-to-assistant-with-adk",
+    "created_on": "September 18, 2025 6:43 AM",
+    "markdown_file": "Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe/Tools Make an Agent From Zero to Assistant with AD 27245e69b16a8118a7b0cd0bc6402fbe.md",
+    "category": "Work",
+    "tags": [
+      "ai",
+      "tools",
+      "development"
+    ],
+    "summary": "Building AI agents with tools."
   }
 ]

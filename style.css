@@ -158,6 +158,47 @@ h1 {
     padding: 2em;
 }
 
+/* --- Responsive Styles for Mobile --- */
+@media (max-width: 768px) {
+    body {
+        margin: 0;
+        padding: 1em;
+    }
+
+    /* --- Main Page --- */
+    #reading-list {
+        grid-template-columns: 1fr; /* Stack cards in a single column */
+        gap: 1em;
+    }
+
+    .controls-container {
+        margin-bottom: 1em;
+    }
+
+    /* --- Viewer Page --- */
+    #toc {
+        display: none; /* Hide the table of contents */
+    }
+
+    .main-content {
+        margin-left: 0; /* Let content take full width */
+    }
+
+    .viewer-header .container,
+    .main-content .container {
+        padding: 1em 1.5em; /* Consistent padding for content */
+    }
+
+    .viewer-header {
+        padding: 1em 0;
+        margin-bottom: 1em;
+    }
+
+    .back-link {
+        margin: 10px 0 10px 20px;
+    }
+}
+
 #markdown-content {
     line-height: 1.6;
 }

@@ -1,53 +1,58 @@
 async function loadReadingList() {
-    const mappingResponse = await fetch('file_mapping.json');
-    const fileMapping = await mappingResponse.json();
-
-    const response = await fetch('Reading List 23fae7025b0f44f4bfa3c0789a2bd8fe.csv');
-    const csvData = await response.text();
-
-    const parsedData = Papa.parse(csvData, {
-        header: true,
-        skipEmptyLines: true
-    });
-
-    const readingListContainer = document.getElementById('reading-list');
-
-    parsedData.data.forEach(item => {
-        const markdownFile = fileMapping[item.Name];
-        let href = item.Column; // Fallback to original URL
-
-        if (markdownFile) {
-            const url = item.Column || '#';
-            const createdOn = item['created on'] || '';
-            const title = item.Name || 'Article';
-            href = `viewer.html?file=${encodeURIComponent(markdownFile)}&url=${encodeURIComponent(url)}&created=${encodeURIComponent(createdOn)}&title=${encodeURIComponent(title)}`;
+    try {
+        const response = await fetch('article_data.json');
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
         }
+        const articles = await response.json();
+        const readingListContainer = document.getElementById('reading-list');
+        readingListContainer.innerHTML = ''; // Clear existing content
 
-        const cardLink = document.createElement('a');
-        cardLink.href = href;
-        cardLink.className = 'card-link';
-        cardLink.target = '_blank';
+        articles.forEach(item => {
+            const href = `viewer.html?file=${encodeURIComponent(item.markdown_file)}&title=${encodeURIComponent(item.title)}&url=${encodeURIComponent(item.url)}&created=${encodeURIComponent(item.created_on)}`;
 
-        const card = document.createElement('div');
-        card.className = 'card';
+            const cardLink = document.createElement('a');
+            cardLink.href = href;
+            cardLink.className = 'card-link';
+            cardLink.target = '_blank';
 
-        const titleElement = document.createElement('h3');
-        titleElement.textContent = item.Name;
+            const card = document.createElement('div');
+            card.className = 'card';
 
-        const descriptionElement = document.createElement('p');
-        descriptionElement.textContent = item.Column; // Using URL as description
+            const categoryElement = document.createElement('span');
+            categoryElement.className = `card-category card-category-${item.category.toLowerCase()}`;
+            categoryElement.textContent = item.category;
 
-        card.appendChild(titleElement);
-        card.appendChild(descriptionElement);
-        cardLink.appendChild(card);
-        readingListContainer.appendChild(cardLink);
-    });
+            const titleElement = document.createElement('h3');
+            titleElement.textContent = item.title;
+
+            const summaryElement = document.createElement('p');
+            summaryElement.className = 'card-summary';
+            summaryElement.textContent = item.summary;
+
+            const tagsContainer = document.createElement('div');
+            tagsContainer.className = 'card-tags';
+            item.tags.forEach(tag => {
+                const tagElement = document.createElement('span');
+                tagElement.className = 'card-tag';
+                tagElement.textContent = tag;
+                tagsContainer.appendChild(tagElement);
+            });
+
+            card.appendChild(categoryElement);
+            card.appendChild(titleElement);
+            card.appendChild(summaryElement);
+            card.appendChild(tagsContainer);
+            cardLink.appendChild(card);
+            readingListContainer.appendChild(cardLink);
+        });
+
+    } catch (error) {
+        console.error("Could not load or parse article_data.json:", error);
+        const readingListContainer = document.getElementById('reading-list');
+        readingListContainer.innerHTML = '<p style="color: red;">Error: Could not load article data. Please run the processing script.</p>';
+    }
 }
 
-// Load the Papa Parse library and then load the reading list
-const script = document.createElement('script');
-script.src = 'https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js';
-script.onload = () => {
-    loadReadingList();
-};
-document.head.appendChild(script);
+// No need for PapaParse anymore, just load the list directly.
+loadReadingList();

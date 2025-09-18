@@ -1,12 +1,26 @@
 const urlParams = new URLSearchParams(window.location.search);
-const file = decodeURIComponent(urlParams.get('file'));
-const originalUrl = decodeURIComponent(urlParams.get('url'));
-const createdOn = decodeURIComponent(urlParams.get('created'));
-const title = decodeURIComponent(urlParams.get('title'));
+const file = urlParams.get('file');
+const title = urlParams.get('title');
+const originalUrl = urlParams.get('url');
+const createdOn = urlParams.get('created');
+const summary = urlParams.get('summary');
+const category = urlParams.get('category');
+const tags = JSON.parse(urlParams.get('tags'));
 
+// Populate Header
 document.querySelector('.viewer-header h1').textContent = title;
 document.getElementById('creation-date').textContent = `Saved on: ${createdOn}`;
 document.getElementById('original-link').href = originalUrl;
+document.getElementById('viewer-summary').textContent = summary;
+document.getElementById('viewer-category').textContent = category;
+
+const tagsContainer = document.getElementById('viewer-tags');
+tags.forEach(tag => {
+    const tagElement = document.createElement('span');
+    tagElement.className = 'card-tag'; // Reuse card-tag style
+    tagElement.textContent = tag;
+    tagsContainer.appendChild(tagElement);
+});
 
 if (file) {
     fetch(file)

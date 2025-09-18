@@ -93,6 +93,47 @@ h1 {
     font-size: .75em;
     margin-right: .5em;
     margin-top: .5em;
+    border: none; /* For button reset */
+    cursor: pointer; /* Make it look clickable */
+    transition: background-color 0.2s;
+}
+
+.card-tag:hover {
+    background-color: #cbd5e0;
+}
+
+.filter-bar {
+    margin-bottom: 1.5rem;
+    padding: 0.75rem 1rem;
+    background-color: #e2e8f0;
+    border-radius: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.9em;
+}
+
+.filter-bar-hidden {
+    display: none;
+}
+
+#active-filter {
+    font-weight: bold;
+    background-color: #fff;
+    padding: .2em .5em;
+    border-radius: .25rem;
+}
+
+#clear-filter-btn {
+    margin-left: 1rem;
+    background-color: #a0aec0;
+    color: white;
+    border: none;
+    padding: .3em .8em;
+    border-radius: .25rem;
+    cursor: pointer;
+}
+
+#clear-filter-btn:hover {
+    background-color: #718096;
 }
 
 .container {
@@ -222,6 +263,26 @@ body.reader-view {
     text-decoration: none;
 }
 
+.viewer-metadata {
+    margin-top: 1.5em;
+    padding-top: 1.5em;
+    border-top: 1px solid #eee;
+}
+
+#viewer-summary {
+    font-style: italic;
+    color: #666;
+    margin-bottom: 1em;
+}
+
+.meta-group {
+    margin-bottom: 0.5em;
+}
+
+#viewer-tags .card-tag {
+    cursor: default; /* Tags are not clickable here */
+}
+
 /* Table of Contents Styles */
 #toc {
     position: fixed;
@@ -238,6 +299,14 @@ body.reader-view {
 
 .main-content {
     margin-left: 220px; /* Same as TOC width */
+}
+
+.back-link {
+    display: inline-block;
+    margin: 20px 0 0 40px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    color: #4a5568;
 }
 
 #toc ul {
